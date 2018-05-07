@@ -7,7 +7,7 @@ ExecStart=/usr/local/bin/paccoind -daemon -conf=/root/.paccoincore/paccoin.conf 
 RuntimeDirectory=paccoind
 User=root
 Type=forking
-PIDFile=/run/bitcoind/paccoind.pid
+PIDFile=/run/paccoind.pid
 Restart=on-failure
 PrivateTmp=true
 ProtectSystem=full
