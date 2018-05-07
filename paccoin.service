@@ -3,7 +3,7 @@ Description=Paccoin daemon
 After=network.target
 
 [Service]
-ExecStart=/usr/local/bin/paccoind -daemon -conf=/root/.paccoincore/paccoin.conf -pid=/run/paccoind.pid
+ExecStart=/usr/local/bin/paccoind -daemon -conf=/root/.paccoincore/paccoin.conf -pid=/run/paccoind.pid  -datadir=/root/.paccoincore
 RuntimeDirectory=paccoind
 User=root
 Type=forking
