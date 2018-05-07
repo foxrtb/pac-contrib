@@ -1,0 +1,19 @@
+[Unit]
+Description=Paccoin daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/paccoind -daemon -conf=/root/.paccoincore/paccoin.conf -pid=/run/paccoind.pid
+RuntimeDirectory=paccoind
+User=root
+Type=forking
+PIDFile=/run/bitcoind/paccoind.pid
+Restart=on-failure
+PrivateTmp=true
+ProtectSystem=full
+NoNewPrivileges=true
+PrivateDevices=true
+MemoryDenyWriteExecute=true
+
+[Install]
+WantedBy=multi-user.target
