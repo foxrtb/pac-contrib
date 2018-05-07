@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MNLISTCMD="paccoin-cli masternodelist full 2>/dev/null"
+MNLISTCMD="$HOME/paccoin-cli masternodelist full 2>/dev/null"
 
 MNADDR=$1
 
