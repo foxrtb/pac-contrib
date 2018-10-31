@@ -1,0 +1,513 @@
+   1337 Japan Tokyo
+    105 Germany Nordrhein-Westfalen
+    117 France Ile-de-France
+    128 Singapore Singapore
+    129 Brazil Sao Paulo
+    129 France Hauts-de-France
+    131 United States Massachusetts
+    139 Greece Attiki
+    152 Japan Osaka
+    159 United States Colorado
+    165 United States Florida
+    197 Netherlands Noord-Holland
+    225 United States Virginia
+    230 United States Georgia
+    233 United States New York
+    254 Germany Bayern
+    296 United Kingdom England
+    337 United States Maryland
+    338 United States Illinois
+    351 United States Texas
+    406 Germany Hessen
+    506 United States California
+    766 - -
+    895 United States New Jersey
+     10 Austria Wien
+     10 Curacao Curacao
+     10 INVALID IPV4 ADDRESS INVALID IPV4 ADDRESS
+     10 Japan Kagawa
+     10 Japan Shiga
+     10 Japan Yamaguchi
+     10 New Zealand Auckland
+     10 Romania Botosani
+     10 Russian Federation Sverdlovskaya oblast'
+     10 United States Nevada
+     11 Brazil Bahia
+     11 Greece Kentriki Makedonia
+     11 Iran, Islamic Republic of Tehran
+     11 Philippines Tarlac
+     11 Romania Mures
+     11 Russian Federation Belgorodskaya oblast'
+     11 United States Wyoming
+     12 Japan Niigata
+     12 Switzerland Bern
+     12 United States Delaware
+     12 United States Wisconsin
+     13 Australia Western Australia
+     13 Belgium -
+     13 France Provence-Alpes-Cote d'Azur
+     13 Italy Lombardia
+     13 Japan Okayama
+     13 Switzerland Zurich
+     13 United States Louisiana
+     13 United States Vermont
+     14 China Liaoning
+     14 India Odisha
+     14 Korea, Republic of Chungcheongnam-do
+     14 Netherlands Gelderland
+     14 United States Tennessee
+     15 Belgium Brussels Hoofdstedelijk Gewest
+     15 Spain Madrid, Comunidad de
+     16 Canada British Columbia
+     16 Germany Rheinland-Pfalz
+     16 Poland Dolnoslaskie
+     17 Japan Fukuoka
+     18 Japan Gunma
+     19 Bulgaria Sofia (stolitsa)
+     19 Japan Hiroshima
+     19 Japan Shizuoka
+     19 Korea, Republic of Seoul-teukbyeolsi
+     19 Malaysia Wilayah Persekutuan Kuala Lumpur
+     19 Ukraine Vinnytska oblast
+     19 United States Missouri
+     20 Germany Niedersachsen
+     20 United States New Hampshire
+     20 Viet Nam Ha Noi
+     21 Brazil Rio de Janeiro
+     21 Japan Toyama
+     21 Portugal Lisboa
+     22 Thailand Bueng Kan
+     23 Australia Victoria
+     23 Japan Hyogo
+     23 Korea, Republic of Jeollabuk-do
+     25 Korea, Republic of Gyeonggi-do
+     25 Netherlands Zuid-Holland
+     25 Russian Federation Moskovskaya oblast'
+     25 United States Oregon
+     27 Netherlands Flevoland
+     27 Netherlands -
+     27 United States Ohio
+     28 Russian Federation Novosibirskaya oblast'
+     28 Russian Federation Sankt-Peterburg
+     29 Brazil Sergipe
+     31 Australia Australian Capital Territory
+     31 Canada Alberta
+     31 United Kingdom -
+     32 Lithuania Vilniaus apskritis
+     33 United States Arizona
+     33 United States Michigan
+     36 United States Alabama
+     36 Uruguay Montevideo
+     37 Germany Sachsen
+     37 United States North Carolina
+     39 Malaysia Selangor
+     40 India Maharashtra
+     40 United States Pennsylvania
+     41 Romania Bucuresti
+     42 Russian Federation Moskva
+     48 Finland Uusimaa
+     48 Poland Mazowieckie
+     48 Russian Federation Murmanskaya oblast'
+     48 Taiwan, Province of China Taipei
+     51 Japan Kanagawa
+     51 Japan Tochigi
+     53 Japan Chiba
+     54 Germany Berlin
+     54 Italy Toscana
+     64 Australia New South Wales
+     65 Japan Hokkaido
+     66 Japan Aichi
+     70 Germany Baden-Wurttemberg
+     71 Japan Saitama
+     72 Canada Quebec
+     73 Australia Queensland
+     78 Canada Ontario
+     90 United States Washington
+      1 Albania Elbasan
+      1 Algeria Ouargla
+      1 Algeria Oum el Bouaghi
+      1 Algeria Tipaza
+      1 Argentina Ciudad Autonoma de Buenos Aires
+      1 Argentina San Juan
+      1 Belarus Mahilyowskaya voblasts'
+      1 Belgium Brabant wallon
+      1 Belgium Hainaut
+      1 Brazil Pernambuco
+      1 Bulgaria Sofia
+      1 Canada Nova Scotia
+      1 Chile Arica y Parinacota
+      1 Chile Libertador General Bernardo O'Higgins
+      1 Chile Region Metropolitana de Santiago
+      1 China Beijing
+      1 China Guangdong
+      1 China Guizhou
+      1 China Jilin
+      1 Colombia Atlantico
+      1 Colombia Cesar
+      1 Colombia Cundinamarca
+      1 Cote D'ivoire Abidjan
+      1 Croatia Osjecko-baranjska zupanija
+      1 Croatia Pozesko-slavonska zupanija
+      1 Croatia Varazdinska zupanija
+      1 Czech Republic Stredocesky kraj
+      1 Czech Republic Ustecky kraj
+      1 Denmark Nordjylland
+      1 Egypt Al Qalyubiyah
+      1 Estonia Harjumaa
+      1 Finland Kainuu
+      1 France Bretagne
+      1 France Occitanie
+      1 France Pays-de-la-Loire
+      1 Ghana Greater Accra
+      1 Greece Ionia Nisia
+      1 Greece Peloponnisos
+      1 Greece Thessalia
+      1 Grenada Saint George
+      1 Hungary Tolna
+      1 Hungary Vas
+      1 India Andhra Pradesh
+      1 India Gujarat
+      1 Indonesia Jawa Barat
+      1 Iran, Islamic Republic of Esfahan
+      1 Iran, Islamic Republic of Fars
+      1 Iran, Islamic Republic of Hamadan
+      1 Iran, Islamic Republic of Hormozgan
+      1 Iran, Islamic Republic of Kerman
+      1 Iran, Islamic Republic of Khorasan-e Razavi
+      1 Iran, Islamic Republic of Yazd
+      1 Israel HaTsafon
+      1 Israel Hefa
+      1 Italy Abruzzo
+      1 Italy Piemonte
+      1 Italy Sardegna
+      1 Italy Sicilia
+      1 Japan Fukui
+      1 Japan Miyazaki
+      1 Japan Shimane
+      1 Kazakhstan Almaty
+      1 Korea, Republic of Busan-gwangyeoksi
+      1 Korea, Republic of Daejeon-gwangyeoksi
+      1 Korea, Republic of Gwangju-gwangyeoksi
+      1 Kuwait Al Ahmadi
+      1 Kuwait Hawalli
+      1 Latvia Riga
+      1 Malaysia Kelantan
+      1 Malaysia Negeri Sembilan
+      1 Malaysia Wilayah Persekutuan Putrajaya
+      1 Mexico Chihuahua
+      1 Mexico Durango
+      1 Mexico Guanajuato
+      1 Mexico Jalisco
+      1 Mexico Mexico
+      1 Mexico Veracruz de Ignacio de la Llave
+      1 Moldova, Republic of Chisinau
+      1 Netherlands Fryslan
+      1 Netherlands Zeeland
+      1 New Zealand Wellington
+      1 New Zealand -
+      1 Nigeria Lagos
+      1 Norway Nordland
+      1 Norway -
+      1 Peru Lambayeque
+      1 Poland Opolskie
+      1 Poland Wielkopolskie
+      1 Qatar Ar Rayyan
+      1 Romania Arges
+      1 Romania Bistrita-Nasaud
+      1 Romania Buzau
+      1 Romania Dolj
+      1 Romania Galati
+      1 Romania Vaslui
+      1 Russian Federation Chuvashskaya Respublika
+      1 Russian Federation Dagestan, Respublika
+      1 Russian Federation Kareliya, Respublika
+      1 Russian Federation Magadanskaya oblast'
+      1 Russian Federation Mariy El, Respublika
+      1 Russian Federation Orlovskaya oblast'
+      1 Russian Federation Permskiy kray
+      1 Russian Federation Primorskiy kray
+      1 Russian Federation Udmurtskaya Respublika
+      1 Russian Federation Volgogradskaya oblast'
+      1 Russian Federation Voronezhskaya oblast'
+      1 Serbia Nisavski okrug
+      1 Serbia Rasinski okrug
+      1 Serbia Zlatiborski okrug
+      1 Slovakia Banskobystricky kraj
+      1 Slovakia Bratislavsky kraj
+      1 Slovakia Nitriansky kraj
+      1 Slovenia Maribor
+      1 Slovenia Ptuj
+      1 Slovenia Skofja Loka
+      1 South Africa Western Cape
+      1 Spain Castilla-La Mancha
+      1 Spain Catalunya
+      1 Spain Pais Vasco
+      1 Switzerland Aargau
+      1 Switzerland Basel-Stadt
+      1 Switzerland Geneve
+      1 Switzerland Sankt Gallen
+      1 Switzerland Solothurn
+      1 Switzerland Vaud
+      1 Taiwan, Province of China Taoyuan
+      1 Taiwan, Province of China Yunlin
+      1 Thailand Chachoengsao
+      1 Thailand Kalasin
+      1 Thailand Khon Kaen
+      1 Thailand Krabi
+      1 Thailand Nakhon Ratchasima
+      1 Thailand Prachuap Khiri Khan
+      1 Thailand Ranong
+      1 Thailand Ratchaburi
+      1 Thailand Satun
+      1 Thailand Surin
+      1 Trinidad and Tobago San Juan-Laventille
+      1 Turkey Adana
+      1 Turkey Istanbul
+      1 Turkey -
+      1 Ukraine Donetska oblast
+      1 Ukraine Ivano-Frankivska oblast
+      1 Ukraine Khersonska oblast
+      1 Ukraine Mykolaivska oblast
+      1 Ukraine Rivnenska oblast
+      1 Ukraine Zaporizka oblast
+      1 United Arab Emirates Abu Zaby
+      1 United Arab Emirates Ash Shariqah
+      1 United Arab Emirates Dubayy
+      1 United Arab Emirates Umm al Qaywayn
+      1 United States District of Columbia
+      1 United States Mississippi
+      1 United States Rhode Island
+      1 Uruguay Cerro Largo
+      1 Uruguay Paysandu
+      1 Uruguay Rocha
+      1 Uzbekistan Toshkent
+      1 Venezuela, Bolivarian Republic of Anzoategui
+      1 Venezuela, Bolivarian Republic of Aragua
+      1 Viet Nam Binh Thuan
+      1 Viet Nam Hung Yen
+      1 Yemen Hadramawt
+      2 Algeria Khenchela
+      2 Austria Niederosterreich
+      2 Austria Oberosterreich
+      2 Austria Steiermark
+      2 Austria Vorarlberg
+      2 Belgium West-Vlaanderen
+      2 Brazil Distrito Federal
+      2 Brazil Espirito Santo
+      2 Brazil Goias
+      2 Brazil Minas Gerais
+      2 Brazil Paraiba
+      2 Bulgaria Pernik
+      2 China Zhejiang
+      2 Croatia Medimurska zupanija
+      2 France Grand-Est
+      2 Germany -
+      2 Greece Kriti
+      2 India Haryana
+      2 India Kerala
+      2 India Madhya Pradesh
+      2 India Rajasthan
+      2 India Tamil Nadu
+      2 Indonesia Bali
+      2 Iran, Islamic Republic of Azarbayjan-e Gharbi
+      2 Israel HaMerkaz
+      2 Italy Lazio
+      2 Japan Akita
+      2 Japan Ishikawa
+      2 Japan Tottori
+      2 Kazakhstan Aqmola oblysy
+      2 Kazakhstan Pavlodar oblysy
+      2 Korea, Republic of Gangwon-do
+      2 Korea, Republic of Gyeongsangnam-do
+      2 Korea, Republic of Incheon-gwangyeoksi
+      2 Korea, Republic of Jeollanam-do
+      2 Malaysia Sabah
+      2 Malaysia Terengganu
+      2 Mexico Baja California
+      2 Mexico Ciudad de Mexico
+      2 Netherlands Utrecht
+      2 New Zealand Waikato
+      2 Norway Akershus
+      2 Norway Vestfold
+      2 Peru Junin
+      2 Philippines Aklan
+      2 Philippines Cavite
+      2 Philippines National Capital Region
+      2 Philippines Negros Occidental
+      2 Qatar Ad Dawhah
+      2 Romania Prahova
+      2 Russian Federation Khabarovskiy kray
+      2 Russian Federation Nizhegorodskaya oblast'
+      2 Russian Federation Omskaya oblast'
+      2 Russian Federation Orenburgskaya oblast'
+      2 Russian Federation Penzenskaya oblast'
+      2 Russian Federation Stavropol'skiy kray
+      2 Russian Federation Tomskaya oblast'
+      2 Slovenia Kranj
+      2 Sweden Ostergotlands lan
+      2 Thailand Lampang
+      2 Thailand Nakhon Phanom
+      2 Thailand Nakhon Si Thammarat
+      2 Thailand Nonthaburi
+      2 Thailand Phangnga
+      2 Thailand Phuket
+      2 Thailand Samut Prakan
+      2 Thailand Saraburi
+      2 Thailand Trang
+      2 Trinidad and Tobago Port of Spain
+      2 Turkey Denizli
+      2 Ukraine Cherkaska oblast
+      2 Ukraine Odeska oblast
+      2 United Arab Emirates 'Ajman
+      2 United Kingdom Northern Ireland
+      2 United States Arkansas
+      2 United States South Dakota
+      2 Viet Nam Dong Nai
+      2 Viet Nam Hai Phong
+      3 Algeria Biskra
+      3 Algeria Tebessa
+      3 Australia Tasmania
+      3 Belarus Horad Minsk
+      3 Brazil Mato Grosso
+      3 Denmark Midtjylland
+      3 France Auvergne-Rhone-Alpes
+      3 Germany Saarland
+      3 Israel Yerushalayim
+      3 Italy Emilia-Romagna
+      3 Japan Nara
+      3 Japan Oita
+      3 Kuwait Al 'Asimah
+      3 Malaysia Johor
+      3 Mexico Guerrero
+      3 Netherlands Limburg
+      3 Norway Oslo
+      3 Pakistan Sindh
+      3 Romania Ilfov
+      3 Romania Suceava
+      3 Russian Federation Saratovskaya oblast'
+      3 Saudi Arabia Al Jawf
+      3 Saudi Arabia Ar Riyad
+      3 Slovakia Trnavsky kraj
+      3 Slovenia Ljubljana
+      3 Spain Andalucia
+      3 Switzerland Fribourg
+      3 Thailand Rayong
+      3 Thailand Samut Sakhon
+      3 Trinidad and Tobago Tobago
+      3 Ukraine Dnipropetrovska oblast
+      3 Ukraine Kharkivska oblast
+      3 Ukraine Kyivska oblast
+      3 United States Iowa
+      3 United States Maine
+      3 Venezuela, Bolivarian Republic of Miranda
+      4 Argentina Cordoba
+      4 Finland Pirkanmaa
+      4 Germany Mecklenburg-Vorpommern
+      4 Germany Schleswig-Holstein
+      4 Germany Thuringen
+      4 India Uttar Pradesh
+      4 Iran, Islamic Republic of Azarbayjan-e Sharqi
+      4 Israel Tel Aviv
+      4 Japan Kagoshima
+      4 Japan Wakayama
+      4 Japan Yamanashi
+      4 Japan -
+      4 Norway Sor-Trondelag
+      4 Norway Troms
+      4 Poland Pomorskie
+      4 Russian Federation Irkutskaya oblast'
+      4 Russian Federation Kemerovskaya oblast'
+      4 Russian Federation Krasnoyarskiy kray
+      4 Russian Federation Ryazanskaya oblast'
+      4 Russian Federation Samarskaya oblast'
+      4 South Africa Gauteng
+      4 Spain Valenciana, Comunidad
+      4 Turkey Ankara
+      4 United States Hawaii
+      4 United States Indiana
+      4 United States New Mexico
+      4 Uruguay Canelones
+      5 Australia South Australia
+      5 Belgium Limburg
+      5 Brazil Parana
+      5 Brazil Rio Grande do Sul
+      5 Czech Republic Jihocesky kraj
+      5 Czech Republic Praha, Hlavni mesto
+      5 Greece Agion Oros
+      5 Hong Kong Hong Kong (SAR)
+      5 India Karnataka
+      5 Iran, Islamic Republic of Mazandaran
+      5 Japan Aomori
+      5 Japan Iwate
+      5 Japan Nagasaki
+      5 Mexico Nayarit
+      5 Russian Federation Chelyabinskaya oblast'
+      5 Russian Federation Ivanovskaya oblast'
+      5 Russian Federation Tatarstan, Respublika
+      5 Russian Federation Vologodskaya oblast'
+      5 Thailand Chumphon
+      5 Thailand Surat Thani
+      5 United Kingdom Scotland
+      5 United States Connecticut
+      5 United States Kentucky
+      5 Uruguay Salto
+      5 Venezuela, Bolivarian Republic of Distrito Capital
+      5 Viet Nam Hai Duong
+      6 Belarus Minskaya voblasts'
+      6 Denmark Hovedstaden
+      6 Iran, Islamic Republic of Alborz
+      6 Ireland Dublin
+      6 Japan Fukushima
+      6 Japan Mie
+      6 Japan Tokushima
+      6 Korea, Republic of Daegu-gwangyeoksi
+      6 Malaysia Kedah
+      6 Malaysia Pulau Pinang
+      6 Netherlands Overijssel
+      6 Pakistan Punjab
+      6 Poland Lubuskie
+      6 Poland Malopolskie
+      6 Romania Constanta
+      6 Russian Federation Bashkortostan, Respublika
+      6 Russian Federation Leningradskaya oblast'
+      6 Thailand Chon Buri
+      6 Thailand Krung Thep Maha Nakhon
+      6 United Kingdom Wales
+      6 United States Utah
+      6 Viet Nam Ho Chi Minh
+      7 Belgium Antwerpen
+      7 Belgium Oost-Vlaanderen
+      7 Belgium Vlaams-Brabant
+      7 Bolivia, Plurinational State of La Paz
+      7 Brazil Santa Catarina
+      7 India Delhi
+      7 Japan Kumamoto
+      7 Japan Kyoto
+      7 Japan Miyagi
+      7 Japan Nagano
+      7 Poland Slaskie
+      7 Romania Cluj
+      7 Russian Federation Krasnodarskiy kray
+      7 Russian Federation Rostovskaya oblast'
+      7 Sweden Stockholms lan
+      7 Ukraine Avtonomna Respublika Krym
+      7 United States Nebraska
+      7 United States South Carolina
+      7 Viet Nam Dak Nong
+      8 Algeria Batna
+      8 Belgium Liege
+      8 Japan Ibaraki
+      8 Japan Okinawa
+      8 Netherlands Noord-Brabant
+      8 Russian Federation Mordoviya, Respublika
+      8 Ukraine Kyiv
+      9 Germany Hamburg
+      9 Germany Sachsen-Anhalt
+      9 Japan Ehime
+      9 Peru Lima
+      9 Russian Federation Tyumenskaya oblast'
+      9 Taiwan, Province of China Taichung
+      9 Thailand Pathum Thani
+      9 United States Kansas
+      9 United States Minnesota
+      9 United States Oklahoma
