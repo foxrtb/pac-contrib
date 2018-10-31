@@ -1,513 +1,1301 @@
-    766 - -
-      1 Albania Elbasan
-      8 Algeria Batna
-      3 Algeria Biskra
-      2 Algeria Khenchela
-      1 Algeria Ouargla
-      1 Algeria Oum el Bouaghi
-      3 Algeria Tebessa
-      1 Algeria Tipaza
-      1 Argentina Ciudad Autonoma de Buenos Aires
-      4 Argentina Cordoba
-      1 Argentina San Juan
-     31 Australia Australian Capital Territory
-     64 Australia New South Wales
-     73 Australia Queensland
-      5 Australia South Australia
-      3 Australia Tasmania
-     23 Australia Victoria
-     13 Australia Western Australia
-      2 Austria Niederosterreich
-      2 Austria Oberosterreich
-      2 Austria Steiermark
-      2 Austria Vorarlberg
-     10 Austria Wien
-      3 Belarus Horad Minsk
-      1 Belarus Mahilyowskaya voblasts'
-      6 Belarus Minskaya voblasts'
-     13 Belgium -
-      7 Belgium Antwerpen
-      1 Belgium Brabant wallon
-     15 Belgium Brussels Hoofdstedelijk Gewest
-      1 Belgium Hainaut
-      8 Belgium Liege
-      5 Belgium Limburg
-      7 Belgium Oost-Vlaanderen
-      7 Belgium Vlaams-Brabant
-      2 Belgium West-Vlaanderen
-      7 Bolivia, Plurinational State of La Paz
-     11 Brazil Bahia
-      2 Brazil Distrito Federal
-      2 Brazil Espirito Santo
-      2 Brazil Goias
-      3 Brazil Mato Grosso
-      2 Brazil Minas Gerais
-      2 Brazil Paraiba
-      5 Brazil Parana
-      1 Brazil Pernambuco
-     21 Brazil Rio de Janeiro
-      5 Brazil Rio Grande do Sul
-      7 Brazil Santa Catarina
-    129 Brazil Sao Paulo
-     29 Brazil Sergipe
-      2 Bulgaria Pernik
-      1 Bulgaria Sofia
-     19 Bulgaria Sofia (stolitsa)
-     31 Canada Alberta
-     16 Canada British Columbia
-      1 Canada Nova Scotia
-     78 Canada Ontario
-     72 Canada Quebec
-      1 Chile Arica y Parinacota
-      1 Chile Libertador General Bernardo O'Higgins
-      1 Chile Region Metropolitana de Santiago
-      1 China Beijing
-      1 China Guangdong
-      1 China Guizhou
-      1 China Jilin
-     14 China Liaoning
-      2 China Zhejiang
-      1 Colombia Atlantico
-      1 Colombia Cesar
-      1 Colombia Cundinamarca
-      1 Cote D'ivoire Abidjan
-      2 Croatia Medimurska zupanija
-      1 Croatia Osjecko-baranjska zupanija
-      1 Croatia Pozesko-slavonska zupanija
-      1 Croatia Varazdinska zupanija
-     10 Curacao Curacao
-      5 Czech Republic Jihocesky kraj
-      5 Czech Republic Praha, Hlavni mesto
-      1 Czech Republic Stredocesky kraj
-      1 Czech Republic Ustecky kraj
-      6 Denmark Hovedstaden
-      3 Denmark Midtjylland
-      1 Denmark Nordjylland
-      1 Egypt Al Qalyubiyah
-      1 Estonia Harjumaa
-      1 Finland Kainuu
-      4 Finland Pirkanmaa
-     48 Finland Uusimaa
-      3 France Auvergne-Rhone-Alpes
-      1 France Bretagne
-      2 France Grand-Est
-    129 France Hauts-de-France
-    117 France Ile-de-France
-      1 France Occitanie
-      1 France Pays-de-la-Loire
-     13 France Provence-Alpes-Cote d'Azur
-      2 Germany -
-     70 Germany Baden-Wurttemberg
-    254 Germany Bayern
-     54 Germany Berlin
-      9 Germany Hamburg
-    406 Germany Hessen
-      4 Germany Mecklenburg-Vorpommern
-     20 Germany Niedersachsen
-    105 Germany Nordrhein-Westfalen
-     16 Germany Rheinland-Pfalz
-      3 Germany Saarland
-     37 Germany Sachsen
-      9 Germany Sachsen-Anhalt
-      4 Germany Schleswig-Holstein
-      4 Germany Thuringen
-      1 Ghana Greater Accra
-      5 Greece Agion Oros
-    139 Greece Attiki
-      1 Greece Ionia Nisia
-     11 Greece Kentriki Makedonia
-      2 Greece Kriti
-      1 Greece Peloponnisos
-      1 Greece Thessalia
-      1 Grenada Saint George
-      5 Hong Kong Hong Kong (SAR)
-      1 Hungary Tolna
-      1 Hungary Vas
-      1 India Andhra Pradesh
-      7 India Delhi
-      1 India Gujarat
-      2 India Haryana
-      5 India Karnataka
-      2 India Kerala
-      2 India Madhya Pradesh
-     40 India Maharashtra
-     14 India Odisha
-      2 India Rajasthan
-      2 India Tamil Nadu
-      4 India Uttar Pradesh
-      2 Indonesia Bali
-      1 Indonesia Jawa Barat
-     10 INVALID IPV4 ADDRESS INVALID IPV4 ADDRESS
-      6 Iran, Islamic Republic of Alborz
-      2 Iran, Islamic Republic of Azarbayjan-e Gharbi
-      4 Iran, Islamic Republic of Azarbayjan-e Sharqi
-      1 Iran, Islamic Republic of Esfahan
-      1 Iran, Islamic Republic of Fars
-      1 Iran, Islamic Republic of Hamadan
-      1 Iran, Islamic Republic of Hormozgan
-      1 Iran, Islamic Republic of Kerman
-      1 Iran, Islamic Republic of Khorasan-e Razavi
-      5 Iran, Islamic Republic of Mazandaran
-     11 Iran, Islamic Republic of Tehran
-      1 Iran, Islamic Republic of Yazd
-      6 Ireland Dublin
-      2 Israel HaMerkaz
-      1 Israel HaTsafon
-      1 Israel Hefa
-      4 Israel Tel Aviv
-      3 Israel Yerushalayim
-      1 Italy Abruzzo
-      3 Italy Emilia-Romagna
-      2 Italy Lazio
-     13 Italy Lombardia
-      1 Italy Piemonte
-      1 Italy Sardegna
-      1 Italy Sicilia
-     54 Italy Toscana
-      4 Japan -
-     66 Japan Aichi
-      2 Japan Akita
-      5 Japan Aomori
-     53 Japan Chiba
-      9 Japan Ehime
-      1 Japan Fukui
-     17 Japan Fukuoka
-      6 Japan Fukushima
-     18 Japan Gunma
-     19 Japan Hiroshima
-     65 Japan Hokkaido
-     23 Japan Hyogo
-      8 Japan Ibaraki
-      2 Japan Ishikawa
-      5 Japan Iwate
-     10 Japan Kagawa
-      4 Japan Kagoshima
-     51 Japan Kanagawa
-      7 Japan Kumamoto
-      7 Japan Kyoto
-      6 Japan Mie
-      7 Japan Miyagi
-      1 Japan Miyazaki
-      7 Japan Nagano
-      5 Japan Nagasaki
-      3 Japan Nara
-     12 Japan Niigata
-      3 Japan Oita
-     13 Japan Okayama
-      8 Japan Okinawa
-    152 Japan Osaka
-     71 Japan Saitama
-     10 Japan Shiga
-      1 Japan Shimane
-     19 Japan Shizuoka
-     51 Japan Tochigi
-      6 Japan Tokushima
-   1337 Japan Tokyo
-      2 Japan Tottori
-     21 Japan Toyama
-      4 Japan Wakayama
-     10 Japan Yamaguchi
-      4 Japan Yamanashi
-      1 Kazakhstan Almaty
-      2 Kazakhstan Aqmola oblysy
-      2 Kazakhstan Pavlodar oblysy
-      1 Korea, Republic of Busan-gwangyeoksi
-     14 Korea, Republic of Chungcheongnam-do
-      6 Korea, Republic of Daegu-gwangyeoksi
-      1 Korea, Republic of Daejeon-gwangyeoksi
-      2 Korea, Republic of Gangwon-do
-      1 Korea, Republic of Gwangju-gwangyeoksi
-     25 Korea, Republic of Gyeonggi-do
-      2 Korea, Republic of Gyeongsangnam-do
-      2 Korea, Republic of Incheon-gwangyeoksi
-     23 Korea, Republic of Jeollabuk-do
-      2 Korea, Republic of Jeollanam-do
-     19 Korea, Republic of Seoul-teukbyeolsi
-      1 Kuwait Al Ahmadi
-      3 Kuwait Al 'Asimah
-      1 Kuwait Hawalli
-      1 Latvia Riga
-     32 Lithuania Vilniaus apskritis
-      3 Malaysia Johor
-      6 Malaysia Kedah
-      1 Malaysia Kelantan
-      1 Malaysia Negeri Sembilan
-      6 Malaysia Pulau Pinang
-      2 Malaysia Sabah
-     39 Malaysia Selangor
-      2 Malaysia Terengganu
-     19 Malaysia Wilayah Persekutuan Kuala Lumpur
-      1 Malaysia Wilayah Persekutuan Putrajaya
-      2 Mexico Baja California
-      1 Mexico Chihuahua
-      2 Mexico Ciudad de Mexico
-      1 Mexico Durango
-      1 Mexico Guanajuato
-      3 Mexico Guerrero
-      1 Mexico Jalisco
-      1 Mexico Mexico
-      5 Mexico Nayarit
-      1 Mexico Veracruz de Ignacio de la Llave
-      1 Moldova, Republic of Chisinau
-     27 Netherlands -
-     27 Netherlands Flevoland
-      1 Netherlands Fryslan
-     14 Netherlands Gelderland
-      3 Netherlands Limburg
-      8 Netherlands Noord-Brabant
-    197 Netherlands Noord-Holland
-      6 Netherlands Overijssel
-      2 Netherlands Utrecht
-      1 Netherlands Zeeland
-     25 Netherlands Zuid-Holland
-      1 New Zealand -
-     10 New Zealand Auckland
-      2 New Zealand Waikato
-      1 New Zealand Wellington
-      1 Nigeria Lagos
-      1 Norway -
-      2 Norway Akershus
-      1 Norway Nordland
-      3 Norway Oslo
-      4 Norway Sor-Trondelag
-      4 Norway Troms
-      2 Norway Vestfold
-      6 Pakistan Punjab
-      3 Pakistan Sindh
-      2 Peru Junin
-      1 Peru Lambayeque
-      9 Peru Lima
-      2 Philippines Aklan
-      2 Philippines Cavite
-      2 Philippines National Capital Region
-      2 Philippines Negros Occidental
-     11 Philippines Tarlac
-     16 Poland Dolnoslaskie
-      6 Poland Lubuskie
-      6 Poland Malopolskie
-     48 Poland Mazowieckie
-      1 Poland Opolskie
-      4 Poland Pomorskie
-      7 Poland Slaskie
-      1 Poland Wielkopolskie
-     21 Portugal Lisboa
-      2 Qatar Ad Dawhah
-      1 Qatar Ar Rayyan
-      1 Romania Arges
-      1 Romania Bistrita-Nasaud
-     10 Romania Botosani
-     41 Romania Bucuresti
-      1 Romania Buzau
-      7 Romania Cluj
-      6 Romania Constanta
-      1 Romania Dolj
-      1 Romania Galati
-      3 Romania Ilfov
-     11 Romania Mures
-      2 Romania Prahova
-      3 Romania Suceava
-      1 Romania Vaslui
-      6 Russian Federation Bashkortostan, Respublika
-     11 Russian Federation Belgorodskaya oblast'
-      5 Russian Federation Chelyabinskaya oblast'
-      1 Russian Federation Chuvashskaya Respublika
-      1 Russian Federation Dagestan, Respublika
-      4 Russian Federation Irkutskaya oblast'
-      5 Russian Federation Ivanovskaya oblast'
-      1 Russian Federation Kareliya, Respublika
-      4 Russian Federation Kemerovskaya oblast'
-      2 Russian Federation Khabarovskiy kray
-      7 Russian Federation Krasnodarskiy kray
-      4 Russian Federation Krasnoyarskiy kray
-      6 Russian Federation Leningradskaya oblast'
-      1 Russian Federation Magadanskaya oblast'
-      1 Russian Federation Mariy El, Respublika
-      8 Russian Federation Mordoviya, Respublika
-     25 Russian Federation Moskovskaya oblast'
-     42 Russian Federation Moskva
-     48 Russian Federation Murmanskaya oblast'
-      2 Russian Federation Nizhegorodskaya oblast'
-     28 Russian Federation Novosibirskaya oblast'
-      2 Russian Federation Omskaya oblast'
-      2 Russian Federation Orenburgskaya oblast'
-      1 Russian Federation Orlovskaya oblast'
-      2 Russian Federation Penzenskaya oblast'
-      1 Russian Federation Permskiy kray
-      1 Russian Federation Primorskiy kray
-      7 Russian Federation Rostovskaya oblast'
-      4 Russian Federation Ryazanskaya oblast'
-      4 Russian Federation Samarskaya oblast'
-     28 Russian Federation Sankt-Peterburg
-      3 Russian Federation Saratovskaya oblast'
-      2 Russian Federation Stavropol'skiy kray
-     10 Russian Federation Sverdlovskaya oblast'
-      5 Russian Federation Tatarstan, Respublika
-      2 Russian Federation Tomskaya oblast'
-      9 Russian Federation Tyumenskaya oblast'
-      1 Russian Federation Udmurtskaya Respublika
-      1 Russian Federation Volgogradskaya oblast'
-      5 Russian Federation Vologodskaya oblast'
-      1 Russian Federation Voronezhskaya oblast'
-      3 Saudi Arabia Al Jawf
-      3 Saudi Arabia Ar Riyad
-      1 Serbia Nisavski okrug
-      1 Serbia Rasinski okrug
-      1 Serbia Zlatiborski okrug
-    128 Singapore Singapore
-      1 Slovakia Banskobystricky kraj
-      1 Slovakia Bratislavsky kraj
-      1 Slovakia Nitriansky kraj
-      3 Slovakia Trnavsky kraj
-      2 Slovenia Kranj
-      3 Slovenia Ljubljana
-      1 Slovenia Maribor
-      1 Slovenia Ptuj
-      1 Slovenia Skofja Loka
-      4 South Africa Gauteng
-      1 South Africa Western Cape
-      3 Spain Andalucia
-      1 Spain Castilla-La Mancha
-      1 Spain Catalunya
-     15 Spain Madrid, Comunidad de
-      1 Spain Pais Vasco
-      4 Spain Valenciana, Comunidad
-      2 Sweden Ostergotlands lan
-      7 Sweden Stockholms lan
-      1 Switzerland Aargau
-      1 Switzerland Basel-Stadt
-     12 Switzerland Bern
-      3 Switzerland Fribourg
-      1 Switzerland Geneve
-      1 Switzerland Sankt Gallen
-      1 Switzerland Solothurn
-      1 Switzerland Vaud
-     13 Switzerland Zurich
-      9 Taiwan, Province of China Taichung
-     48 Taiwan, Province of China Taipei
-      1 Taiwan, Province of China Taoyuan
-      1 Taiwan, Province of China Yunlin
-     22 Thailand Bueng Kan
-      1 Thailand Chachoengsao
-      6 Thailand Chon Buri
-      5 Thailand Chumphon
-      1 Thailand Kalasin
-      1 Thailand Khon Kaen
-      1 Thailand Krabi
-      6 Thailand Krung Thep Maha Nakhon
-      2 Thailand Lampang
-      2 Thailand Nakhon Phanom
-      1 Thailand Nakhon Ratchasima
-      2 Thailand Nakhon Si Thammarat
-      2 Thailand Nonthaburi
-      9 Thailand Pathum Thani
-      2 Thailand Phangnga
-      2 Thailand Phuket
-      1 Thailand Prachuap Khiri Khan
-      1 Thailand Ranong
-      1 Thailand Ratchaburi
-      3 Thailand Rayong
-      2 Thailand Samut Prakan
-      3 Thailand Samut Sakhon
-      2 Thailand Saraburi
-      1 Thailand Satun
-      5 Thailand Surat Thani
-      1 Thailand Surin
-      2 Thailand Trang
-      2 Trinidad and Tobago Port of Spain
-      1 Trinidad and Tobago San Juan-Laventille
-      3 Trinidad and Tobago Tobago
-      1 Turkey -
-      1 Turkey Adana
-      4 Turkey Ankara
-      2 Turkey Denizli
-      1 Turkey Istanbul
-      7 Ukraine Avtonomna Respublika Krym
-      2 Ukraine Cherkaska oblast
-      3 Ukraine Dnipropetrovska oblast
-      1 Ukraine Donetska oblast
-      1 Ukraine Ivano-Frankivska oblast
-      3 Ukraine Kharkivska oblast
-      1 Ukraine Khersonska oblast
-      8 Ukraine Kyiv
-      3 Ukraine Kyivska oblast
-      1 Ukraine Mykolaivska oblast
-      2 Ukraine Odeska oblast
-      1 Ukraine Rivnenska oblast
-     19 Ukraine Vinnytska oblast
-      1 Ukraine Zaporizka oblast
-      1 United Arab Emirates Abu Zaby
-      2 United Arab Emirates 'Ajman
-      1 United Arab Emirates Ash Shariqah
-      1 United Arab Emirates Dubayy
-      1 United Arab Emirates Umm al Qaywayn
-     31 United Kingdom -
-    296 United Kingdom England
-      2 United Kingdom Northern Ireland
-      5 United Kingdom Scotland
-      6 United Kingdom Wales
-     36 United States Alabama
-     33 United States Arizona
-      2 United States Arkansas
-    506 United States California
-    159 United States Colorado
-      5 United States Connecticut
-     12 United States Delaware
-      1 United States District of Columbia
-    165 United States Florida
-    230 United States Georgia
-      4 United States Hawaii
-    338 United States Illinois
-      4 United States Indiana
-      3 United States Iowa
-      9 United States Kansas
-      5 United States Kentucky
-     13 United States Louisiana
-      3 United States Maine
-    337 United States Maryland
-    131 United States Massachusetts
-     33 United States Michigan
-      9 United States Minnesota
-      1 United States Mississippi
-     19 United States Missouri
-      7 United States Nebraska
-     10 United States Nevada
-     20 United States New Hampshire
-    895 United States New Jersey
-      4 United States New Mexico
-    233 United States New York
-     37 United States North Carolina
-     27 United States Ohio
-      9 United States Oklahoma
-     25 United States Oregon
-     40 United States Pennsylvania
-      1 United States Rhode Island
-      7 United States South Carolina
-      2 United States South Dakota
-     14 United States Tennessee
-    351 United States Texas
-      6 United States Utah
-     13 United States Vermont
-    225 United States Virginia
-     90 United States Washington
-     12 United States Wisconsin
-     11 United States Wyoming
-      4 Uruguay Canelones
-      1 Uruguay Cerro Largo
-     36 Uruguay Montevideo
-      1 Uruguay Paysandu
-      1 Uruguay Rocha
-      5 Uruguay Salto
-      1 Uzbekistan Toshkent
-      1 Venezuela, Bolivarian Republic of Anzoategui
-      1 Venezuela, Bolivarian Republic of Aragua
-      5 Venezuela, Bolivarian Republic of Distrito Capital
-      3 Venezuela, Bolivarian Republic of Miranda
-      1 Viet Nam Binh Thuan
-      7 Viet Nam Dak Nong
-      2 Viet Nam Dong Nai
-      5 Viet Nam Hai Duong
-      2 Viet Nam Hai Phong
-     20 Viet Nam Ha Noi
-      6 Viet Nam Ho Chi Minh
-      1 Viet Nam Hung Yen
-      1 Yemen Hadramawt
+    766 - - -
+      1 Albania Elbasan Cerrik
+      1 Algeria Batna Ain Touta
+      1 Algeria Batna Arris
+      6 Algeria Batna Batna
+      1 Algeria Biskra Biskra
+      2 Algeria Biskra Tolga
+      2 Algeria Khenchela Khenchela
+      1 Algeria Ouargla Ouargla
+      1 Algeria Oum el Bouaghi El Aouinet
+      3 Algeria Tebessa Tebessa
+      1 Algeria Tipaza Cheraga
+      1 Argentina Ciudad Autonoma de Buenos Aires Buenos Aires
+      1 Argentina Cordoba Cordoba
+      3 Argentina Cordoba Villa General Belgrano
+      1 Argentina San Juan San Juan
+     31 Australia Australian Capital Territory Canberra
+      1 Australia New South Wales Kensington
+      1 Australia New South Wales Moruya
+      1 Australia New South Wales Newcastle
+      2 Australia New South Wales Ryde
+      1 Australia New South Wales Shelly Beach
+     55 Australia New South Wales Sydney
+      1 Australia New South Wales Tweed Heads
+      1 Australia New South Wales Wollongong
+      1 Australia New South Wales Zetland
+      5 Australia Queensland Brisbane
+      1 Australia Queensland Gold Coast
+     65 Australia Queensland Graceville
+      2 Australia Queensland Indooroopilly
+      5 Australia South Australia Adelaide
+      1 Australia Tasmania Devonport
+      1 Australia Tasmania Hobart
+      1 Australia Tasmania Mayfield
+      8 Australia Victoria Albion
+     14 Australia Victoria Melbourne
+      1 Australia Victoria Morwell
+      1 Australia Western Australia Corrigin
+      1 Australia Western Australia Kalgoorlie
+      7 Australia Western Australia Perth
+      1 Australia Western Australia South Hedland
+      3 Australia Western Australia Subiaco
+      2 Austria Niederosterreich Maria Enzersdorf
+      1 Austria Oberosterreich Linz
+      1 Austria Oberosterreich Sankt Georgen am Walde
+      2 Austria Steiermark Furstenfeld
+      1 Austria Vorarlberg Dornbirn
+      1 Austria Vorarlberg Feldkirch
+     10 Austria Wien Vienna
+      3 Belarus Horad Minsk Serebryanka
+      1 Belarus Mahilyowskaya voblasts' Babruysk
+      6 Belarus Minskaya voblasts' Minsk
+     13 Belgium - -
+      4 Belgium Antwerpen Antwerpen
+      1 Belgium Antwerpen Geel
+      1 Belgium Antwerpen Mechelen
+      1 Belgium Antwerpen Turnhout
+      1 Belgium Brabant wallon Louvain-la-Neuve
+     15 Belgium Brussels Hoofdstedelijk Gewest Brussels
+      1 Belgium Hainaut La Louviere
+      8 Belgium Liege Liege
+      2 Belgium Limburg Beringen
+      3 Belgium Limburg Hasselt
+      7 Belgium Oost-Vlaanderen Gent
+      7 Belgium Vlaams-Brabant Zaventem
+      2 Belgium West-Vlaanderen Kortrijk
+      7 Bolivia, Plurinational State of La Paz La Paz
+      1 Brazil Bahia Jacobina
+      1 Brazil Bahia Mata de Sao Joao
+      8 Brazil Bahia Salvador
+      1 Brazil Bahia Vitoria da Conquista
+      2 Brazil Distrito Federal Brasilia
+      2 Brazil Espirito Santo Vila Velha
+      2 Brazil Goias Goiania
+      1 Brazil Mato Grosso Alta Floresta
+      1 Brazil Mato Grosso Sinop
+      1 Brazil Mato Grosso Tangara da Serra
+      1 Brazil Minas Gerais Conselheiro Pena
+      1 Brazil Minas Gerais Governador Valadares
+      1 Brazil Paraiba Guarabira
+      1 Brazil Paraiba Joao Pessoa
+      3 Brazil Parana Cascavel
+      2 Brazil Parana Curitiba
+      1 Brazil Pernambuco Recife
+     21 Brazil Rio de Janeiro Rio de Janeiro
+      3 Brazil Rio Grande do Sul Porto Alegre
+      1 Brazil Rio Grande do Sul Santa Cruz do Sul
+      1 Brazil Rio Grande do Sul Triunfo
+      1 Brazil Santa Catarina Balneario Camboriu
+      6 Brazil Santa Catarina Joinville
+      1 Brazil Sao Paulo Araras
+     16 Brazil Sao Paulo Campinas
+      1 Brazil Sao Paulo Caraguatatuba
+      3 Brazil Sao Paulo Piracicaba
+      1 Brazil Sao Paulo Ribeirao Preto
+      1 Brazil Sao Paulo Santos
+      3 Brazil Sao Paulo Sao Jose dos Campos
+    102 Brazil Sao Paulo Sao Paulo
+      1 Brazil Sao Paulo Ubatuba
+     29 Brazil Sergipe Aracaju
+      2 Bulgaria Pernik Pernik
+      1 Bulgaria Sofia Bozhurishte
+     19 Bulgaria Sofia (stolitsa) Sofia
+     10 Canada Alberta Calgary
+      1 Canada Alberta Doan
+     18 Canada Alberta Edmonton
+      1 Canada Alberta Morley
+      1 Canada Alberta Red Deer
+      1 Canada British Columbia North Vancouver
+      5 Canada British Columbia Port Coquitlam
+      9 Canada British Columbia Vancouver
+      1 Canada British Columbia Victoria
+      1 Canada Nova Scotia Sydney
+      3 Canada Ontario Brampton
+      1 Canada Ontario Etobicoke
+      1 Canada Ontario Hamilton
+      4 Canada Ontario Kingston
+      1 Canada Ontario London
+      1 Canada Ontario Niagara Falls
+      3 Canada Ontario North York
+      1 Canada Ontario Ottawa
+     63 Canada Ontario Toronto
+     26 Canada Quebec Beauharnois
+      1 Canada Quebec Berthierville
+      1 Canada Quebec Hull
+     39 Canada Quebec Montreal
+      1 Canada Quebec Sainte-Adele
+      4 Canada Quebec Trois-Rivieres
+      1 Chile Arica y Parinacota Arica
+      1 Chile Libertador General Bernardo O'Higgins Santa Cruz
+      1 Chile Region Metropolitana de Santiago Santiago
+      1 China Beijing Beijing
+      1 China Guangdong Guangzhou
+      1 China Guizhou Guiyang
+      1 China Jilin Shuangyang
+     10 China Liaoning Dalian
+      2 China Liaoning Dalianwan
+      2 China Liaoning Shenyang
+      1 China Zhejiang Hangzhou
+      1 China Zhejiang Jiaojiang
+      1 Colombia Atlantico Barranquilla
+      1 Colombia Cesar Valledupar
+      1 Colombia Cundinamarca Cota
+      1 Cote D'ivoire Abidjan Abidjan
+      1 Croatia Medimurska zupanija Brezje
+      1 Croatia Medimurska zupanija Nedelisce
+      1 Croatia Osjecko-baranjska zupanija Valpovo
+      1 Croatia Pozesko-slavonska zupanija Gradac
+      1 Croatia Varazdinska zupanija Varazdin
+     10 Curacao Curacao Willemstad
+      2 Czech Republic Jihocesky kraj Ceske Budejovice
+      3 Czech Republic Jihocesky kraj Lhenice
+      5 Czech Republic Praha, Hlavni mesto Prague
+      1 Czech Republic Stredocesky kraj Vestec
+      1 Czech Republic Ustecky kraj Teplice
+      5 Denmark Hovedstaden Copenhagen
+      1 Denmark Hovedstaden Glostrup
+      2 Denmark Midtjylland Herning
+      1 Denmark Midtjylland Skanderborg
+      1 Denmark Nordjylland Aalborg
+      1 Egypt Al Qalyubiyah Al Khankah
+      1 Estonia Harjumaa Tallinn
+      1 Finland Kainuu Salo
+      4 Finland Pirkanmaa Tampere
+     42 Finland Uusimaa Helsinki
+      6 Finland Uusimaa Hyvinkaa
+      1 France Auvergne-Rhone-Alpes Brie-et-Angonnes
+      1 France Auvergne-Rhone-Alpes Lyon
+      1 France Auvergne-Rhone-Alpes Orcet
+      1 France Bretagne Rennes
+      1 France Grand-Est Falck
+      1 France Grand-Est Strasbourg
+    129 France Hauts-de-France Roubaix
+      2 France Ile-de-France Arcueil
+      1 France Ile-de-France Aubervilliers
+      1 France Ile-de-France Hericy
+      3 France Ile-de-France Issy-les-Moulineaux
+      1 France Ile-de-France Ivry-sur-Seine
+      4 France Ile-de-France Lagny-sur-Marne
+      1 France Ile-de-France Meudon
+    104 France Ile-de-France Paris
+      1 France Occitanie Cahors
+      1 France Pays-de-la-Loire Sainte-Hermine
+      1 France Provence-Alpes-Cote d'Azur Avignon
+      1 France Provence-Alpes-Cote d'Azur Frejus
+      1 France Provence-Alpes-Cote d'Azur L'Argentiere-la-Bessee
+      1 France Provence-Alpes-Cote d'Azur Nice
+      8 France Provence-Alpes-Cote d'Azur Orange
+      1 France Provence-Alpes-Cote d'Azur Toulon
+      2 Germany - -
+      1 Germany Baden-Wurttemberg Bad Wurzach
+     10 Germany Baden-Wurttemberg Calw
+      1 Germany Baden-Wurttemberg Freiburg
+     13 Germany Baden-Wurttemberg Goppingen
+     13 Germany Baden-Wurttemberg Heidelberg
+      7 Germany Baden-Wurttemberg Karlsruhe
+      5 Germany Baden-Wurttemberg Ludwigshafen
+      1 Germany Baden-Wurttemberg Neckartenzlingen
+     17 Germany Baden-Wurttemberg Stuttgart
+      2 Germany Baden-Wurttemberg Ulm
+      1 Germany Bayern Altmuhldorf
+      1 Germany Bayern Alzgern
+      1 Germany Bayern Aschaffenburg
+      9 Germany Bayern Augsburg-Lechviertel
+      1 Germany Bayern Dingolfing
+      3 Germany Bayern Eggenfelden
+      1 Germany Bayern Freyung
+      1 Germany Bayern Gaishausen
+      1 Germany Bayern Grossarmschlag
+    143 Germany Bayern Gunzenhausen
+      1 Germany Bayern Ingolstadt
+      1 Germany Bayern Landshut
+      1 Germany Bayern Mitterwachsenberg
+     34 Germany Bayern Munich
+     30 Germany Bayern Nuremberg
+      1 Germany Bayern Oberscherm
+      1 Germany Bayern Regen
+      5 Germany Bayern Schlupfing
+      4 Germany Bayern Steufzgen
+     11 Germany Bayern Straubing
+      1 Germany Bayern Troglersricht
+      1 Germany Bayern Waldkirchen
+      1 Germany Bayern Wuerzburg
+     54 Germany Berlin Berlin
+      9 Germany Hamburg Hamburg
+     32 Germany Hessen Altenstadt
+    252 Germany Hessen Darmstadt
+    112 Germany Hessen Frankfurt am Main
+      1 Germany Hessen Heinebach
+      3 Germany Hessen Kassel
+      1 Germany Hessen Limburg an der Lahn
+      1 Germany Hessen Rodenroth
+      3 Germany Hessen Sachsenhausen
+      1 Germany Hessen Wiesbaden
+      1 Germany Mecklenburg-Vorpommern Hinter-Wendorf
+      3 Germany Mecklenburg-Vorpommern Rostock
+      4 Germany Niedersachsen Braunschweig
+      1 Germany Niedersachsen Bueddenstedt
+      1 Germany Niedersachsen Cloppenburg
+      1 Germany Niedersachsen Cuxhaven
+      1 Germany Niedersachsen Hameln
+      7 Germany Niedersachsen Helmstedt
+      1 Germany Niedersachsen Lahn
+      3 Germany Niedersachsen Osterholz-Scharmbeck
+      1 Germany Niedersachsen Siedlung Steinbrink
+      6 Germany Nordrhein-Westfalen Aachen
+      6 Germany Nordrhein-Westfalen Bielefeld
+     16 Germany Nordrhein-Westfalen Bonn
+      2 Germany Nordrhein-Westfalen Borken
+      7 Germany Nordrhein-Westfalen Dortmund
+     23 Germany Nordrhein-Westfalen Dusseldorf
+      1 Germany Nordrhein-Westfalen Keddinghausen
+     42 Germany Nordrhein-Westfalen Koeln
+      1 Germany Nordrhein-Westfalen Siegen
+      1 Germany Nordrhein-Westfalen Verl
+      1 Germany Rheinland-Pfalz Erbach
+      5 Germany Rheinland-Pfalz Freinsheim
+      6 Germany Rheinland-Pfalz Isenburg
+      1 Germany Rheinland-Pfalz Mainz
+      1 Germany Rheinland-Pfalz Mutterschied
+      1 Germany Rheinland-Pfalz Pirmasens
+      1 Germany Rheinland-Pfalz Trier
+      3 Germany Saarland Saarbrucken
+      1 Germany Sachsen-Anhalt Bergwitz
+      1 Germany Sachsen-Anhalt Halle (Saale)
+      5 Germany Sachsen-Anhalt Magdeburg
+      1 Germany Sachsen-Anhalt Nebra
+      1 Germany Sachsen-Anhalt Noschenrode
+     12 Germany Sachsen Dresden
+      1 Germany Sachsen Falkenstein
+      6 Germany Sachsen Folgenhauser
+      7 Germany Sachsen Hoyerswerda
+      2 Germany Sachsen Leipzig
+      2 Germany Sachsen Neustadter Hammer
+      3 Germany Sachsen Waldhof
+      3 Germany Sachsen Wittichenau
+      1 Germany Sachsen Zwickau
+      1 Germany Schleswig-Holstein Kiel
+      3 Germany Schleswig-Holstein Luebeck
+      1 Germany Thuringen Engelsbach
+      1 Germany Thuringen Erfurt
+      1 Germany Thuringen Koblenz
+      1 Germany Thuringen Lemnitz
+      1 Ghana Greater Accra Accra
+      5 Greece Agion Oros Thivais
+     26 Greece Attiki Athens
+    113 Greece Attiki Paiania
+      1 Greece Ionia Nisia Argostolion
+     11 Greece Kentriki Makedonia Polikhronon
+      1 Greece Kriti Atsipopoulon
+      1 Greece Kriti Irakleion
+      1 Greece Peloponnisos Kariai
+      1 Greece Thessalia Oichalia
+      1 Grenada Saint George Saint George's
+      5 Hong Kong Hong Kong (SAR) Hong Kong
+      1 Hungary Tolna Tolna
+      1 Hungary Vas Kormend
+      1 India Andhra Pradesh Vishakhapatnam
+      7 India Delhi Delhi
+      1 India Gujarat Ahmedabad
+      2 India Haryana Gurgaon
+      5 India Karnataka Bangalore
+      1 India Kerala Edakkulam
+      1 India Kerala Tirur
+      1 India Madhya Pradesh Bhabhra
+      1 India Madhya Pradesh Parasia
+     40 India Maharashtra Mumbai
+      2 India Odisha Banposh
+      8 India Odisha Bhubaneshwar
+      2 India Odisha Brahmapur
+      1 India Odisha Koraput
+      1 India Odisha Soro
+      2 India Rajasthan Jaipur
+      1 India Tamil Nadu Chennai
+      1 India Tamil Nadu Madurai
+      4 India Uttar Pradesh Noida
+      2 Indonesia Bali Denpasar
+      1 Indonesia Jawa Barat Bekasi
+     10 INVALID IPV4 ADDRESS INVALID IPV4 ADDRESS INVALID IPV4 ADDRESS
+      6 Iran, Islamic Republic of Alborz Nazarabad
+      1 Iran, Islamic Republic of Azarbayjan-e Gharbi Naqadeh
+      1 Iran, Islamic Republic of Azarbayjan-e Gharbi Orumiyeh
+      1 Iran, Islamic Republic of Azarbayjan-e Sharqi Bonab
+      1 Iran, Islamic Republic of Azarbayjan-e Sharqi Hashtrud
+      2 Iran, Islamic Republic of Azarbayjan-e Sharqi Tabriz
+      1 Iran, Islamic Republic of Esfahan Esfahan
+      1 Iran, Islamic Republic of Fars Neyriz
+      1 Iran, Islamic Republic of Hamadan Nahavand
+      1 Iran, Islamic Republic of Hormozgan Bandar 'Abbas
+      1 Iran, Islamic Republic of Kerman Kerman
+      1 Iran, Islamic Republic of Khorasan-e Razavi Mashhad
+      2 Iran, Islamic Republic of Mazandaran Babol
+      1 Iran, Islamic Republic of Mazandaran Babolsar
+      1 Iran, Islamic Republic of Mazandaran Behshahr
+      1 Iran, Islamic Republic of Mazandaran Juybar
+      1 Iran, Islamic Republic of Tehran Malard
+     10 Iran, Islamic Republic of Tehran Tehran
+      1 Iran, Islamic Republic of Yazd Khavas Kuh
+      6 Ireland Dublin Dublin
+      2 Israel HaMerkaz Petah Tikva
+      1 Israel HaTsafon Karmi'el
+      1 Israel Hefa Haifa
+      4 Israel Tel Aviv Tel Aviv
+      3 Israel Yerushalayim Zur Hadassa
+      1 Italy Abruzzo Lanciano
+      3 Italy Emilia-Romagna Rimini
+      2 Italy Lazio Rome
+      1 Italy Lombardia Brescia
+     12 Italy Lombardia Milan
+      1 Italy Piemonte Ivrea
+      1 Italy Sardegna Cagliari
+      1 Italy Sicilia Catania
+     54 Italy Toscana Arezzo
+      4 Japan - -
+     48 Japan Aichi Nagoya
+     16 Japan Aichi Tokai
+      2 Japan Aichi Toyohashi
+      1 Japan Akita Akita
+      1 Japan Akita Daisen
+      5 Japan Aomori Aomori
+      8 Japan Chiba Asahi
+     42 Japan Chiba Chiba
+      2 Japan Chiba Funabashi
+      1 Japan Chiba Urayasu
+      1 Japan Ehime Matsuyama
+      8 Japan Ehime Uwajima
+      1 Japan Fukui Fukui
+     15 Japan Fukuoka Fukuoka
+      1 Japan Fukuoka Kitakyushu
+      1 Japan Fukuoka Omuta
+      6 Japan Fukushima Fukushima
+     16 Japan Gunma Maebashi
+      2 Japan Gunma Tatebayashi
+      7 Japan Hiroshima Fukuyama
+     10 Japan Hiroshima Hiroshima
+      2 Japan Hiroshima Onomichi
+     47 Japan Hokkaido Asahikawa
+      1 Japan Hokkaido Date
+      1 Japan Hokkaido Fukagawa
+      6 Japan Hokkaido Hakodate
+      1 Japan Hokkaido Kushiro
+      9 Japan Hokkaido Sapporo
+     17 Japan Hyogo Amagasaki
+      4 Japan Hyogo Himeji
+      1 Japan Hyogo Kobe
+      1 Japan Hyogo Tamba
+      3 Japan Ibaraki Mito
+      5 Japan Ibaraki Tsukuba
+      2 Japan Ishikawa Kanazawa
+      5 Japan Iwate Morioka
+     10 Japan Kagawa Takamatsu
+      4 Japan Kagoshima Kagoshima
+      1 Japan Kanagawa Odawara
+     50 Japan Kanagawa Yokohama
+      7 Japan Kumamoto Kumamoto
+      7 Japan Kyoto Kyoto
+      1 Japan Mie Ise
+      5 Japan Mie Yokkaichi
+      7 Japan Miyagi Sendai
+      1 Japan Miyazaki Miyazaki
+      5 Japan Nagano Matsumoto
+      2 Japan Nagano Nagano
+      5 Japan Nagasaki Nagasaki
+      3 Japan Nara Nara
+      2 Japan Niigata Nagaoka
+     10 Japan Niigata Niigata
+      3 Japan Oita Nakatsu
+      1 Japan Okayama Kurashiki
+     12 Japan Okayama Okayama
+      8 Japan Okinawa Naha
+    152 Japan Osaka Osaka
+     71 Japan Saitama Saitama
+      3 Japan Shiga Nagahama
+      7 Japan Shiga Otsu
+      1 Japan Shimane Gotsu
+      4 Japan Shizuoka Hamamatsu
+     13 Japan Shizuoka Numazu
+      2 Japan Shizuoka Shizuoka
+      3 Japan Tochigi Ashikaga
+     48 Japan Tochigi Utsunomiya
+      1 Japan Tokushima Anan
+      5 Japan Tokushima Tokushima
+   1337 Japan Tokyo Tokyo
+      2 Japan Tottori Yonago
+      1 Japan Toyama Tonami
+     20 Japan Toyama Toyama
+      4 Japan Wakayama Wakayama
+      1 Japan Yamaguchi Shimonoseki
+      9 Japan Yamaguchi Yamaguchi
+      4 Japan Yamanashi Kofu
+      1 Kazakhstan Almaty Almaty
+      2 Kazakhstan Aqmola oblysy Krasnogorskiy
+      2 Kazakhstan Pavlodar oblysy Pavlodar
+      1 Korea, Republic of Busan-gwangyeoksi Busan
+      1 Korea, Republic of Chungcheongnam-do Cheonan
+      4 Korea, Republic of Chungcheongnam-do Hongsung
+      1 Korea, Republic of Chungcheongnam-do Taejon
+      7 Korea, Republic of Chungcheongnam-do Tangjin
+      1 Korea, Republic of Chungcheongnam-do Tenan
+      3 Korea, Republic of Daegu-gwangyeoksi Hwawon
+      3 Korea, Republic of Daegu-gwangyeoksi Taegu
+      1 Korea, Republic of Daejeon-gwangyeoksi Taiden
+      2 Korea, Republic of Gangwon-do Wonju
+      1 Korea, Republic of Gwangju-gwangyeoksi Kwangju
+      1 Korea, Republic of Gyeonggi-do Ansan
+      4 Korea, Republic of Gyeonggi-do Anyang
+      1 Korea, Republic of Gyeonggi-do Incheon
+      1 Korea, Republic of Gyeonggi-do Kuri
+      1 Korea, Republic of Gyeonggi-do Kwangju
+      8 Korea, Republic of Gyeonggi-do Kwangmyong
+      8 Korea, Republic of Gyeonggi-do Seongnam
+      1 Korea, Republic of Gyeonggi-do Suwon
+      1 Korea, Republic of Gyeongsangnam-do Chinju
+      1 Korea, Republic of Gyeongsangnam-do Kimhae
+      2 Korea, Republic of Incheon-gwangyeoksi Tsche-mul-p-ho
+     23 Korea, Republic of Jeollabuk-do Iksan
+      1 Korea, Republic of Jeollanam-do Reisui
+      1 Korea, Republic of Jeollanam-do Sunchun
+     19 Korea, Republic of Seoul-teukbyeolsi Seoul
+      1 Kuwait Al Ahmadi Al Ahmadi
+      1 Kuwait Al 'Asimah Ad Dasmah
+      1 Kuwait Al 'Asimah As Salimiyah
+      1 Kuwait Al 'Asimah Kuwait
+      1 Kuwait Hawalli Bayan
+      1 Latvia Riga Riga
+     32 Lithuania Vilniaus apskritis Vilnius
+      1 Malaysia Johor Muar
+      1 Malaysia Johor Pasir Gudang Baru
+      1 Malaysia Johor Tangkak
+      3 Malaysia Kedah Alor Setar
+      2 Malaysia Kedah Jitra
+      1 Malaysia Kedah Sungai Petani
+      1 Malaysia Kelantan Tanah Merah
+      1 Malaysia Negeri Sembilan Seremban
+      2 Malaysia Pulau Pinang Bayan Lepas
+      2 Malaysia Pulau Pinang George Town
+      1 Malaysia Pulau Pinang Juru
+      1 Malaysia Pulau Pinang Nibong Tebal
+      1 Malaysia Sabah Keningau
+      1 Malaysia Sabah Tawau
+      7 Malaysia Selangor Puchong
+     31 Malaysia Selangor Shah Alam
+      1 Malaysia Selangor Subang
+      2 Malaysia Terengganu Kuala Terengganu
+     19 Malaysia Wilayah Persekutuan Kuala Lumpur Kuala Lumpur
+      1 Malaysia Wilayah Persekutuan Putrajaya Putrajaya
+      2 Mexico Baja California Tijuana
+      1 Mexico Chihuahua Chihuahua
+      1 Mexico Ciudad de Mexico Col. Bosques de las Lomas
+      1 Mexico Ciudad de Mexico Mexico City
+      1 Mexico Durango Gomez Palacio
+      1 Mexico Guanajuato Leon
+      2 Mexico Guerrero Iguala de la Independencia
+      1 Mexico Guerrero Taxco de Alarcon
+      1 Mexico Jalisco Guadalajara
+      1 Mexico Mexico Toluca
+      1 Mexico Nayarit San Blas
+      4 Mexico Nayarit Tepic
+      1 Mexico Veracruz de Ignacio de la Llave Veracruz
+      1 Moldova, Republic of Chisinau Chisinau
+     27 Netherlands - -
+     27 Netherlands Flevoland Almere Stad
+      1 Netherlands Fryslan Leeuwarden
+      8 Netherlands Gelderland Apeldoorn
+      3 Netherlands Gelderland Arnhem
+      1 Netherlands Gelderland Gendringen
+      1 Netherlands Gelderland Nijmegen
+      1 Netherlands Gelderland Zaltbommel
+      1 Netherlands Limburg Venlo
+      2 Netherlands Limburg Wellerlooi
+      2 Netherlands Noord-Brabant Eindhoven
+      4 Netherlands Noord-Brabant Oosterhout
+      2 Netherlands Noord-Brabant Roosendaal
+    197 Netherlands Noord-Holland Amsterdam
+      3 Netherlands Overijssel Enschede
+      3 Netherlands Overijssel Zwolle
+      2 Netherlands Utrecht Utrecht
+      1 Netherlands Zeeland Goes
+      1 Netherlands Zuid-Holland Bodegraven
+     12 Netherlands Zuid-Holland Den Haag
+      1 Netherlands Zuid-Holland Naaldwijk
+      7 Netherlands Zuid-Holland Rijswijk
+      4 Netherlands Zuid-Holland Rotterdam
+      1 New Zealand - -
+     10 New Zealand Auckland Auckland
+      2 New Zealand Waikato Hamilton
+      1 New Zealand Wellington Wellington
+      1 Nigeria Lagos Lagos
+      1 Norway - -
+      2 Norway Akershus Nesoddtangen
+      1 Norway Nordland Bodo
+      3 Norway Oslo Oslo
+      4 Norway Sor-Trondelag Trondheim
+      4 Norway Troms Tromso
+      1 Norway Vestfold Sandefjord
+      1 Norway Vestfold Tonsberg
+      1 Pakistan Punjab Dera Ghazi Khan
+      2 Pakistan Punjab Faisalabad
+      1 Pakistan Punjab Jhumra
+      1 Pakistan Punjab Pir Mahal
+      1 Pakistan Punjab Toba Tek Singh
+      3 Pakistan Sindh Karachi
+      2 Peru Junin Huancayo
+      1 Peru Lambayeque Chiclayo
+      1 Peru Lima Huacho
+      8 Peru Lima Lima
+      2 Philippines Aklan Nabas
+      2 Philippines Cavite Bacoor
+      2 Philippines National Capital Region Makati
+      1 Philippines Negros Occidental Bacolod City
+      1 Philippines Negros Occidental San Fernando
+     11 Philippines Tarlac Salcedo
+      1 Poland Dolnoslaskie Cieplice Slaskie Zdroj
+      2 Poland Dolnoslaskie Legnica
+      1 Poland Dolnoslaskie Luban
+      1 Poland Dolnoslaskie Miedzylesie
+      1 Poland Dolnoslaskie Piensk
+      1 Poland Dolnoslaskie Twardogora
+      1 Poland Dolnoslaskie Uciechow
+      7 Poland Dolnoslaskie Wroclaw
+      1 Poland Dolnoslaskie Zagrodno
+      6 Poland Lubuskie Otyn
+      6 Poland Malopolskie Krakow
+     48 Poland Mazowieckie Warsaw
+      1 Poland Opolskie Opole
+      4 Poland Pomorskie Gdansk
+      7 Poland Slaskie Katowice
+      1 Poland Wielkopolskie Wolsztyn
+     20 Portugal Lisboa Lisbon
+      1 Portugal Lisboa Silveira
+      2 Qatar Ad Dawhah Doha
+      1 Qatar Ar Rayyan Ar Rayyan
+      1 Romania Arges Pitesti
+      1 Romania Bistrita-Nasaud Bistrita
+      8 Romania Botosani Botosani
+      2 Romania Botosani Dorohoi
+     41 Romania Bucuresti Bucharest
+      1 Romania Buzau Pirscov
+      4 Romania Cluj Cluj-Napoca
+      3 Romania Cluj Turda
+      6 Romania Constanta Constanta
+      1 Romania Dolj Craiova
+      1 Romania Galati Galati
+      3 Romania Ilfov Chiajna
+      1 Romania Mures Ciurgau
+     10 Romania Mures Targu-Mures
+      2 Romania Prahova Ploiesti
+      3 Romania Suceava Suceava
+      1 Romania Vaslui Birlad
+      4 Russian Federation Bashkortostan, Respublika Neftekamsk
+      1 Russian Federation Bashkortostan, Respublika Sterlitamak
+      1 Russian Federation Bashkortostan, Respublika Ufa
+      4 Russian Federation Belgorodskaya oblast' Belgorod
+      7 Russian Federation Belgorodskaya oblast' Staryy Oskol
+      5 Russian Federation Chelyabinskaya oblast' Chelyabinsk
+      1 Russian Federation Chuvashskaya Respublika Cheboksary
+      1 Russian Federation Dagestan, Respublika Makhachkala
+      1 Russian Federation Irkutskaya oblast' Angarsk
+      3 Russian Federation Irkutskaya oblast' Irkutsk
+      2 Russian Federation Ivanovskaya oblast' Furmanov
+      1 Russian Federation Ivanovskaya oblast' Ivanovo
+      1 Russian Federation Ivanovskaya oblast' Kineshma
+      1 Russian Federation Ivanovskaya oblast' Navoloki
+      1 Russian Federation Kareliya, Respublika Petrozavodsk
+      2 Russian Federation Kemerovskaya oblast' Kemerovo
+      1 Russian Federation Kemerovskaya oblast' Novokuznetsk
+      1 Russian Federation Kemerovskaya oblast' Tayzhina
+      2 Russian Federation Khabarovskiy kray Khabarovsk
+      1 Russian Federation Krasnodarskiy kray Adler
+      3 Russian Federation Krasnodarskiy kray Krasnodar
+      1 Russian Federation Krasnodarskiy kray Kropotkin
+      1 Russian Federation Krasnodarskiy kray Kurganinsk
+      1 Russian Federation Krasnodarskiy kray Novorossiysk
+      4 Russian Federation Krasnoyarskiy kray Krasnoyarsk
+      1 Russian Federation Leningradskaya oblast' Boksitogorsk
+      1 Russian Federation Leningradskaya oblast' Luga
+      1 Russian Federation Leningradskaya oblast' Murino
+      1 Russian Federation Leningradskaya oblast' Pikalevo
+      1 Russian Federation Leningradskaya oblast' Priozersk
+      1 Russian Federation Leningradskaya oblast' Svetogorsk
+      1 Russian Federation Magadanskaya oblast' Sokol
+      1 Russian Federation Mariy El, Respublika Yoshkar-Ola
+      1 Russian Federation Mordoviya, Respublika Kadoshkino
+      3 Russian Federation Mordoviya, Respublika Romodanovo
+      4 Russian Federation Mordoviya, Respublika Ruzayevka
+      1 Russian Federation Moskovskaya oblast' Chernogolovka
+      9 Russian Federation Moskovskaya oblast' Dolgoprudnyy
+      1 Russian Federation Moskovskaya oblast' Elektrostal'
+      1 Russian Federation Moskovskaya oblast' Istra
+     12 Russian Federation Moskovskaya oblast' Podol'sk
+      1 Russian Federation Moskovskaya oblast' Zheleznodorozhnyy
+     42 Russian Federation Moskva Moscow
+      2 Russian Federation Murmanskaya oblast' Apatity
+      6 Russian Federation Murmanskaya oblast' Kirovsk
+      2 Russian Federation Murmanskaya oblast' Kovdor
+     19 Russian Federation Murmanskaya oblast' Murmansk
+     17 Russian Federation Murmanskaya oblast' Severomorsk
+      1 Russian Federation Murmanskaya oblast' Severomorsk-3
+      1 Russian Federation Murmanskaya oblast' Snezhnogorsk
+      2 Russian Federation Nizhegorodskaya oblast' Nizhniy Novgorod
+     25 Russian Federation Novosibirskaya oblast' Novosibirsk
+      3 Russian Federation Novosibirskaya oblast' Prokudskoye
+      1 Russian Federation Omskaya oblast' Kormilovka
+      1 Russian Federation Omskaya oblast' Omsk
+      2 Russian Federation Orenburgskaya oblast' Tyul'gan
+      1 Russian Federation Orlovskaya oblast' Orel
+      2 Russian Federation Penzenskaya oblast' Penza
+      1 Russian Federation Permskiy kray Perm'
+      1 Russian Federation Primorskiy kray Vladivostok
+      1 Russian Federation Rostovskaya oblast' Donskoy
+      1 Russian Federation Rostovskaya oblast' Novoshakhtinsk
+      4 Russian Federation Rostovskaya oblast' Rostov-na-Donu
+      1 Russian Federation Rostovskaya oblast' Shakhty
+      1 Russian Federation Ryazanskaya oblast' Korablino
+      3 Russian Federation Ryazanskaya oblast' Ryazan'
+      2 Russian Federation Samarskaya oblast' Samara
+      2 Russian Federation Samarskaya oblast' Tolyatti
+     26 Russian Federation Sankt-Peterburg Saint Petersburg
+      2 Russian Federation Sankt-Peterburg Shushary
+      3 Russian Federation Saratovskaya oblast' Gornyy
+      1 Russian Federation Stavropol'skiy kray Lermontov
+      1 Russian Federation Stavropol'skiy kray Zelenokumsk
+      1 Russian Federation Sverdlovskaya oblast' Alapayevsk
+      1 Russian Federation Sverdlovskaya oblast' Asbest
+      1 Russian Federation Sverdlovskaya oblast' Ivdel'
+      1 Russian Federation Sverdlovskaya oblast' Kachkanar
+      1 Russian Federation Sverdlovskaya oblast' Verkhnyaya Salda
+      5 Russian Federation Sverdlovskaya oblast' Yekaterinburg
+      1 Russian Federation Tatarstan, Respublika Kazan
+      4 Russian Federation Tatarstan, Respublika Naberezhnyye Chelny
+      2 Russian Federation Tomskaya oblast' Strezhevoy
+      9 Russian Federation Tyumenskaya oblast' Tyumen'
+      1 Russian Federation Udmurtskaya Respublika Izhevsk
+      1 Russian Federation Volgogradskaya oblast' Kamyshin
+      4 Russian Federation Vologodskaya oblast' Cherepovets
+      1 Russian Federation Vologodskaya oblast' Vologda
+      1 Russian Federation Voronezhskaya oblast' Voronezh
+      3 Saudi Arabia Al Jawf Tubarjal
+      3 Saudi Arabia Ar Riyad Riyadh
+      1 Serbia Nisavski okrug Nis
+      1 Serbia Rasinski okrug Krusevac
+      1 Serbia Zlatiborski okrug Uzice
+    128 Singapore Singapore Singapore
+      1 Slovakia Banskobystricky kraj Ziar nad Hronom
+      1 Slovakia Bratislavsky kraj Bratislava
+      1 Slovakia Nitriansky kraj Vrable
+      1 Slovakia Trnavsky kraj Galanta
+      1 Slovakia Trnavsky kraj Gbely
+      1 Slovakia Trnavsky kraj Trnava
+      2 Slovenia Kranj Kranj
+      3 Slovenia Ljubljana Ljubljana
+      1 Slovenia Maribor Maribor
+      1 Slovenia Ptuj Ptuj
+      1 Slovenia Skofja Loka Skofja Loka
+      1 South Africa Gauteng Bedfordview
+      1 South Africa Gauteng Johannesburg
+      2 South Africa Gauteng Kempton Park
+      1 South Africa Western Cape Cape Town
+      1 Spain Andalucia Cartama
+      1 Spain Andalucia Ronda
+      1 Spain Andalucia Sevilla
+      1 Spain Castilla-La Mancha Cuenca
+      1 Spain Catalunya Barcelona
+     15 Spain Madrid, Comunidad de Madrid
+      1 Spain Pais Vasco Bilbao
+      4 Spain Valenciana, Comunidad Valencia
+      1 Sweden Ostergotlands lan Linkoping
+      1 Sweden Ostergotlands lan Norrkoping
+      1 Sweden Stockholms lan Akersberga
+      6 Sweden Stockholms lan Stockholm
+      1 Switzerland Aargau Baden
+      1 Switzerland Basel-Stadt Basel
+     12 Switzerland Bern Bern
+      3 Switzerland Fribourg Fribourg
+      1 Switzerland Geneve Geneva
+      1 Switzerland Sankt Gallen Buchs
+      1 Switzerland Solothurn Balsthal
+      1 Switzerland Vaud Founex
+      2 Switzerland Zurich Schlieren
+      2 Switzerland Zurich Winterthur
+      9 Switzerland Zurich Zurich
+      8 Taiwan, Province of China Taichung Fengyuan
+      1 Taiwan, Province of China Taichung Taichung
+     48 Taiwan, Province of China Taipei Taipei
+      1 Taiwan, Province of China Taoyuan Taoyuan
+      1 Taiwan, Province of China Yunlin Douliu
+     22 Thailand Bueng Kan So Phisai
+      1 Thailand Chachoengsao Bang Pakong
+      3 Thailand Chon Buri Chon Buri
+      2 Thailand Chon Buri Phan Thong
+      1 Thailand Chon Buri Phatthaya
+      1 Thailand Chumphon Chumphon
+      1 Thailand Chumphon Lang Suan
+      3 Thailand Chumphon Tha Sae
+      1 Thailand Kalasin Tha Khantho
+      1 Thailand Khon Kaen Sam Sung
+      1 Thailand Krabi Plai Phraya
+      6 Thailand Krung Thep Maha Nakhon Bangkok
+      1 Thailand Lampang Lampang
+      1 Thailand Lampang Mae Mo
+      2 Thailand Nakhon Phanom Nakhon Phanom
+      1 Thailand Nakhon Ratchasima Nakhon Ratchasima
+      1 Thailand Nakhon Si Thammarat Nakhon Si Thammarat
+      1 Thailand Nakhon Si Thammarat Ron Phibun
+      2 Thailand Nonthaburi Mueang Nonthaburi
+      9 Thailand Pathum Thani Khlong Luang
+      2 Thailand Phangnga Takua Pa
+      1 Thailand Phuket Phuket
+      1 Thailand Phuket Thalang
+      1 Thailand Prachuap Khiri Khan Bang Saphan Noi
+      1 Thailand Ranong Ranong
+      1 Thailand Ratchaburi Ratchaburi
+      1 Thailand Rayong Ban Chang
+      1 Thailand Rayong Nikhom Phattana
+      1 Thailand Rayong Rayong
+      2 Thailand Samut Prakan Phra Pradaeng
+      1 Thailand Samut Sakhon Krathum Baen
+      2 Thailand Samut Sakhon Samut Sakhon
+      2 Thailand Saraburi Nong Khae
+      1 Thailand Satun Tha Phae
+      1 Thailand Surat Thani Ban Takhun
+      1 Thailand Surat Thani Koh Tao
+      3 Thailand Surat Thani Ko Samui
+      1 Thailand Surin Surin
+      2 Thailand Trang Trang
+      2 Trinidad and Tobago Port of Spain Port of Spain
+      1 Trinidad and Tobago San Juan-Laventille Laventille
+      3 Trinidad and Tobago Tobago Scarborough
+      1 Turkey - -
+      1 Turkey Adana Adana
+      4 Turkey Ankara Ankara
+      2 Turkey Denizli Denizli
+      1 Turkey Istanbul Istanbul
+      1 Ukraine Avtonomna Respublika Krym Feodosiya
+      1 Ukraine Avtonomna Respublika Krym Livadiya
+      4 Ukraine Avtonomna Respublika Krym Simferopol'
+      1 Ukraine Avtonomna Respublika Krym Yalta
+      1 Ukraine Cherkaska oblast Cherkasy
+      1 Ukraine Cherkaska oblast Shpola
+      2 Ukraine Dnipropetrovska oblast Dnipropetrovsk
+      1 Ukraine Dnipropetrovska oblast Kryvyy Rih
+      1 Ukraine Donetska oblast Donets'k
+      1 Ukraine Ivano-Frankivska oblast Otyniya
+      2 Ukraine Kharkivska oblast Kharkiv
+      1 Ukraine Kharkivska oblast Kulynychi
+      1 Ukraine Khersonska oblast Kherson
+      8 Ukraine Kyiv Kiev
+      2 Ukraine Kyivska oblast Brovary
+      1 Ukraine Kyivska oblast Vyshhorod
+      1 Ukraine Mykolaivska oblast Mykolayiv
+      2 Ukraine Odeska oblast Odessa
+      1 Ukraine Rivnenska oblast Rivne
+     19 Ukraine Vinnytska oblast Vinnytsya
+      1 Ukraine Zaporizka oblast Zaporizhzhya
+      1 United Arab Emirates Abu Zaby Abu Dhabi
+      2 United Arab Emirates 'Ajman 'Ajman
+      1 United Arab Emirates Ash Shariqah Sharjah
+      1 United Arab Emirates Dubayy Dubai
+      1 United Arab Emirates Umm al Qaywayn Umm al Qaywayn
+     31 United Kingdom - -
+      2 United Kingdom England Andover
+      3 United Kingdom England Birmingham
+      2 United Kingdom England Bishops Waltham
+      4 United Kingdom England Bournemouth
+      1 United Kingdom England Bridgwater
+      2 United Kingdom England Bristol
+      3 United Kingdom England Cambridge
+      1 United Kingdom England Chard
+      2 United Kingdom England Chilcomb
+      1 United Kingdom England Colton
+      1 United Kingdom England Cotton
+      3 United Kingdom England Cowes
+      1 United Kingdom England Durham
+      1 United Kingdom England Exeter
+      1 United Kingdom England Gillingham
+      8 United Kingdom England Gosport
+      1 United Kingdom England Guildford
+      4 United Kingdom England Leeds
+      2 United Kingdom England Liverpool
+    166 United Kingdom England London
+      1 United Kingdom England Lyng
+      1 United Kingdom England Maidenhead
+     33 United Kingdom England Manchester
+      1 United Kingdom England Merriott
+      1 United Kingdom England Middlesbrough
+      1 United Kingdom England Norwich
+      1 United Kingdom England Pannal
+      9 United Kingdom England Portsmouth
+      1 United Kingdom England Rainford
+      8 United Kingdom England Reading
+      2 United Kingdom England Ringwood
+      1 United Kingdom England Rugby
+      1 United Kingdom England Salisbury
+      3 United Kingdom England Sheffield
+      1 United Kingdom England Shide
+      4 United Kingdom England Southampton
+      1 United Kingdom England Swindon
+      1 United Kingdom England Tilstock
+     13 United Kingdom England Warrington
+      1 United Kingdom England Wickham Bishops
+      1 United Kingdom England Woking
+      1 United Kingdom England Yarmouth
+      1 United Kingdom Northern Ireland Belfast
+      1 United Kingdom Northern Ireland Jerrettspuss
+      1 United Kingdom Scotland Caputh
+      1 United Kingdom Scotland Edinburgh
+      1 United Kingdom Scotland Errol
+      1 United Kingdom Scotland Glasgow
+      1 United Kingdom Scotland Terreglestown
+      1 United Kingdom Wales Cardiff
+      1 United Kingdom Wales Llangian
+      1 United Kingdom Wales Mold
+      1 United Kingdom Wales Newbridge
+      1 United Kingdom Wales Newport
+      1 United Kingdom Wales Pentre
+      1 United States Alabama Alabaster
+      1 United States Alabama Daphne
+      1 United States Alabama Decatur
+      1 United States Alabama Elmore
+      1 United States Alabama Homewood
+      1 United States Alabama Hoover
+     12 United States Alabama Huntsville
+     18 United States Alabama Mobile
+      1 United States Arizona Apache Junction
+      1 United States Arizona Buckeye
+      1 United States Arizona Chandler
+      1 United States Arizona Glendale
+      1 United States Arizona Goodyear
+      1 United States Arizona Kingman
+      4 United States Arizona Mesa
+      1 United States Arizona Peoria
+      4 United States Arizona Phoenix
+      1 United States Arizona Scottsdale
+      1 United States Arizona Tempe
+     15 United States Arizona Tucson
+      1 United States Arizona Yuma
+      1 United States Arkansas Bella Vista
+      1 United States Arkansas Hot Springs
+      7 United States California Alameda
+      1 United States California Anaheim
+      1 United States California Apple Valley
+      1 United States California Auburn
+      2 United States California Belmont
+      2 United States California Berkeley
+      1 United States California Brawley
+      1 United States California Brentwood
+      1 United States California Burbank
+      1 United States California Claremont
+      1 United States California Clovis
+      1 United States California Colton
+      1 United States California Corona
+      6 United States California Costa Mesa
+      1 United States California Coulterville
+      1 United States California Cudahy
+      1 United States California Cypress
+      1 United States California Daly City
+      1 United States California Downey
+      2 United States California El Centro
+      4 United States California Elk Grove
+      1 United States California El Monte
+      1 United States California Foster City
+      4 United States California Fremont
+      6 United States California Fresno
+      1 United States California Fullerton
+      4 United States California Glendale
+      2 United States California Glendora
+      1 United States California Hayward
+      9 United States California Indio
+      1 United States California Jackson
+      1 United States California La Jolla
+      2 United States California Lakeport
+      2 United States California La Mesa
+      1 United States California Lancaster
+      1 United States California Lathrop
+      1 United States California Livermore
+      3 United States California Lomita
+      4 United States California Lompoc
+     88 United States California Los Angeles
+      2 United States California Menlo Park
+      7 United States California Modesto
+      1 United States California Morgan Hill
+     84 United States California Mountain View
+      1 United States California Napa
+      1 United States California Newark
+     10 United States California Newport Beach
+      1 United States California Orange
+      2 United States California Oxnard
+      1 United States California Palmdale
+      1 United States California Pasadena
+      1 United States California Pomona
+      1 United States California Porterville
+      1 United States California Rancho Cucamonga
+      1 United States California Reedley
+      1 United States California Riverbank
+      1 United States California Sacramento
+      1 United States California Salinas
+      1 United States California San Bernardino
+      1 United States California San Bruno
+      1 United States California San Clemente
+      6 United States California San Diego
+     48 United States California San Francisco
+      1 United States California San Jacinto
+    105 United States California San Jose
+      2 United States California San Leandro
+      1 United States California San Marcos
+     17 United States California San Mateo
+      1 United States California San Ramon
+     13 United States California Santa Clara
+      3 United States California Santa Maria
+      1 United States California Santa Rosa
+      1 United States California South San Francisco
+      3 United States California Stanton
+      3 United States California Stockton
+      1 United States California Temecula
+      1 United States California Tustin
+      2 United States California Vallejo
+      2 United States California Walnut
+      1 United States California Watsonville
+      1 United States California West Sacramento
+      1 United States California Yuba City
+      1 United States Colorado Aurora
+      1 United States Colorado Boulder
+      1 United States Colorado Broomfield
+      2 United States Colorado Castle Rock
+      1 United States Colorado Centennial
+      2 United States Colorado Colorado Springs
+     27 United States Colorado Denver
+    112 United States Colorado Greenwood Village
+      1 United States Colorado Littleton
+     11 United States Colorado Pueblo
+      1 United States Connecticut Bridgeport
+      1 United States Connecticut Milford
+      1 United States Connecticut North Haven
+      1 United States Connecticut Norwich
+      1 United States Connecticut West Haven
+      6 United States Delaware Dover
+      1 United States Delaware Georgetown
+      2 United States Delaware Lewes
+      3 United States Delaware Wilmington
+      1 United States District of Columbia Washington
+      1 United States Florida Altamonte Springs
+      2 United States Florida Apopka
+      1 United States Florida Boca Raton
+      1 United States Florida Brooksville
+      1 United States Florida Cantonment
+      1 United States Florida Cape Coral
+      1 United States Florida Clearwater
+      2 United States Florida Cooper City
+      5 United States Florida Coral Springs
+      1 United States Florida Davie
+      1 United States Florida Fort Walton Beach
+      1 United States Florida Haines City
+      1 United States Florida Hollywood
+      8 United States Florida Jacksonville
+      1 United States Florida Lake Worth
+      1 United States Florida Lauderdale Lakes
+     99 United States Florida Miami
+      2 United States Florida Miami Beach
+      3 United States Florida Miramar
+      4 United States Florida North Port
+      1 United States Florida Orlando
+      1 United States Florida Palm Coast
+      1 United States Florida Pompano Beach
+      4 United States Florida Port Saint Lucie
+      1 United States Florida Tamarac
+     11 United States Florida Tampa
+      9 United States Florida West Palm Beach
+    212 United States Georgia Atlanta
+      1 United States Georgia Douglasville
+      1 United States Georgia East Point
+      2 United States Georgia Johns Creek
+      2 United States Georgia Lawrenceville
+      2 United States Georgia Marietta
+      1 United States Georgia McDonough
+      7 United States Georgia Roswell
+      1 United States Georgia Savannah
+      1 United States Georgia Union City
+      3 United States Hawaii Honolulu
+      1 United States Hawaii Volcano
+      2 United States Illinois Aurora
+      1 United States Illinois Berwyn
+    243 United States Illinois Chicago
+      2 United States Illinois Cicero
+      1 United States Illinois Cissna Park
+      1 United States Illinois Danville
+      7 United States Illinois DeKalb
+      3 United States Illinois Downers Grove
+     25 United States Illinois Elk Grove Village
+      1 United States Illinois Elmhurst
+      1 United States Illinois Evanston
+      2 United States Illinois Glenview
+      5 United States Illinois Homer Glen
+      2 United States Illinois Jacksonville
+      1 United States Illinois Lincolnshire
+      1 United States Illinois Lockport
+      1 United States Illinois McHenry
+      1 United States Illinois Melrose Park
+      1 United States Illinois Moline
+      1 United States Illinois Naperville
+      3 United States Illinois Northbrook
+      3 United States Illinois Oak Lawn
+      5 United States Illinois Orland Park
+      3 United States Illinois Ottawa
+      9 United States Illinois Palatine
+      1 United States Illinois Park Forest
+      3 United States Illinois Peoria
+      2 United States Illinois Rockford
+      1 United States Illinois Rock Island
+      1 United States Illinois Schaumburg
+      1 United States Illinois Waukegan
+      4 United States Illinois Woodridge
+      3 United States Indiana Gary
+      1 United States Indiana Muncie
+      1 United States Iowa Burlington
+      2 United States Iowa Des Moines
+      1 United States Kansas Concordia
+      1 United States Kansas Dearing
+      1 United States Kansas Elkhart
+      1 United States Kansas Kansas City
+      1 United States Kansas Lenexa
+      1 United States Kansas Olathe
+      1 United States Kansas Overland Park
+      1 United States Kansas Topeka
+      1 United States Kansas Wichita
+      1 United States Kentucky Bowling Green
+      1 United States Kentucky Lebanon
+      1 United States Kentucky Louisville
+      2 United States Kentucky Richmond
+      5 United States Louisiana Baton Rouge
+      1 United States Louisiana Bossier City
+      1 United States Louisiana Monroe
+      6 United States Louisiana New Orleans
+      1 United States Maine Portland
+      2 United States Maine Presque Isle
+     11 United States Maryland Baltimore
+      3 United States Maryland Bowie
+    306 United States Maryland College Park
+     14 United States Maryland Germantown
+      2 United States Maryland Laurel
+      1 United States Maryland Rockville
+    107 United States Massachusetts Boston
+     10 United States Massachusetts Brockton
+      1 United States Massachusetts Cambridge
+      1 United States Massachusetts Chicopee
+      1 United States Massachusetts Fall River
+      9 United States Massachusetts Springfield
+      2 United States Massachusetts Worcester
+      1 United States Michigan Ann Arbor
+      1 United States Michigan Birmingham
+      1 United States Michigan Dearborn
+     16 United States Michigan Detroit
+      1 United States Michigan Farmington Hills
+      1 United States Michigan Flint
+      1 United States Michigan Gladstone
+      1 United States Michigan Grand Rapids
+      1 United States Michigan Holland
+      1 United States Michigan Kalamazoo
+      1 United States Michigan Lansing
+      1 United States Michigan Madison Heights
+      2 United States Michigan Marquette
+      1 United States Michigan Sodus
+      1 United States Michigan Warren
+      1 United States Michigan West Branch
+      1 United States Michigan Wyoming
+      1 United States Minnesota Eagan
+      3 United States Minnesota Grand Marais
+      2 United States Minnesota Minneapolis
+      1 United States Minnesota Saint Cloud
+      1 United States Minnesota Saint Paul
+      1 United States Minnesota Virginia
+      1 United States Mississippi Ruleville
+      1 United States Missouri Belgrade
+      1 United States Missouri Fredericktown
+      3 United States Missouri Kansas City
+      1 United States Missouri North Kansas City
+      1 United States Missouri O'Fallon
+      1 United States Missouri Raytown
+      7 United States Missouri Saint Louis
+      1 United States Missouri Shelbyville
+      2 United States Missouri Springfield
+      1 United States Missouri Wentzville
+      1 United States Nebraska Fremont
+      5 United States Nebraska Omaha
+      1 United States Nebraska Wayne
+      1 United States Nevada Goldfield
+      1 United States Nevada Henderson
+      6 United States Nevada Las Vegas
+      1 United States Nevada North Las Vegas
+      1 United States Nevada Sparks
+     14 United States New Hampshire Concord
+      1 United States New Hampshire Conway
+      1 United States New Hampshire Deerfield
+      2 United States New Hampshire Manchester
+      1 United States New Hampshire Nashua
+      1 United States New Hampshire North Conway
+      2 United States New Jersey Atlantic City
+      4 United States New Jersey Bedminster
+      2 United States New Jersey Camden
+      7 United States New Jersey Clifton
+      3 United States New Jersey Elizabeth
+      1 United States New Jersey Fort Lee
+    641 United States New Jersey Matawan
+    134 United States New Jersey Mount Laurel
+      2 United States New Jersey Newark
+      1 United States New Jersey Parsippany
+     96 United States New Jersey Piscataway
+      1 United States New Jersey Rahway
+      1 United States New Jersey Trenton
+      3 United States New Mexico Albuquerque
+      1 United States New Mexico Arrey
+    109 United States New York Buffalo
+      1 United States New York Greenburgh
+      1 United States New York Monroe
+    118 United States New York New York City
+      1 United States New York Poughkeepsie
+      2 United States New York Syracuse
+      1 United States New York Yonkers
+      2 United States North Carolina Apex
+      1 United States North Carolina Asheville
+      1 United States North Carolina Cedar Island
+      1 United States North Carolina Charlotte
+      2 United States North Carolina Concord
+      2 United States North Carolina Elizabeth City
+      7 United States North Carolina Fayetteville
+      1 United States North Carolina Fuquay-Varina
+      1 United States North Carolina Holly Springs
+      1 United States North Carolina Jacksonville
+      1 United States North Carolina Lumberton
+     14 United States North Carolina Raleigh
+      1 United States North Carolina Salisbury
+      1 United States North Carolina Sanford
+      1 United States North Carolina Wilmington
+      5 United States Ohio Akron
+      1 United States Ohio Cleveland
+     20 United States Ohio Columbus
+      1 United States Ohio Massillon
+      1 United States Oklahoma Broken Arrow
+      1 United States Oklahoma Edmond
+      6 United States Oklahoma Oklahoma City
+      1 United States Oklahoma Ponca City
+      2 United States Oregon Albany
+      1 United States Oregon Astoria
+      2 United States Oregon Beaverton
+      1 United States Oregon Corvallis
+      1 United States Oregon Medford
+     13 United States Oregon Portland
+      2 United States Oregon Sherwood
+      3 United States Oregon Wilsonville
+      1 United States Pennsylvania Bloomfield
+     21 United States Pennsylvania New Kensington
+     17 United States Pennsylvania Philadelphia
+      1 United States Pennsylvania Reading
+      1 United States Rhode Island Providence
+      1 United States South Carolina Boiling Springs
+      2 United States South Carolina Greenwood
+      2 United States South Carolina Orangeburg
+      1 United States South Carolina Summerville
+      1 United States South Carolina Sumter
+      2 United States South Dakota Sioux Falls
+      2 United States Tennessee Chattanooga
+      1 United States Tennessee Clarksville
+      2 United States Tennessee Johnson City
+      1 United States Tennessee Kingsport
+      4 United States Tennessee Knoxville
+      1 United States Tennessee Memphis
+      1 United States Tennessee Morristown
+      2 United States Tennessee Nashville
+      2 United States Texas Allen
+      1 United States Texas Arlington
+     42 United States Texas Austin
+      1 United States Texas Columbus
+     61 United States Texas Dallas
+      1 United States Texas El Paso
+      1 United States Texas Euless
+      1 United States Texas Haltom City
+     41 United States Texas Houston
+     17 United States Texas Irving
+      1 United States Texas Keller
+      1 United States Texas Kerrville
+      1 United States Texas Lubbock
+      1 United States Texas Mesquite
+      1 United States Texas New Braunfels
+      1 United States Texas Pearland
+      1 United States Texas Pflugerville
+      1 United States Texas Plano
+    167 United States Texas Richardson
+      2 United States Texas Rosenberg
+      1 United States Texas Round Rock
+      2 United States Texas San Antonio
+      2 United States Texas San Marcos
+      1 United States Texas Wichita Falls
+      1 United States Utah Bountiful
+      5 United States Utah Salt Lake City
+      3 United States Vermont Burlington
+      9 United States Vermont Island Pond
+      1 United States Vermont White River Junction
+      1 United States Virginia Alexandria
+     11 United States Virginia Arlington
+    172 United States Virginia Ashburn
+      2 United States Virginia Boydton
+      1 United States Virginia Chesapeake
+      4 United States Virginia Fairfax
+      2 United States Virginia Fredericksburg
+     10 United States Virginia Herndon
+      1 United States Virginia Hurley
+      6 United States Virginia Manassas
+      1 United States Virginia Norfolk
+      3 United States Virginia Reston
+      5 United States Virginia Richmond
+      6 United States Virginia Virginia Beach
+      1 United States Washington Auburn
+      3 United States Washington Bellevue
+      1 United States Washington Bellingham
+      1 United States Washington Everett
+      1 United States Washington Kennewick
+      1 United States Washington Mount Vernon
+      2 United States Washington Olympia
+      3 United States Washington Redmond
+      1 United States Washington Renton
+     60 United States Washington Seattle
+      1 United States Washington Shoreline
+      6 United States Washington Spokane
+      1 United States Washington Spokane Valley
+      5 United States Washington Tacoma
+      1 United States Washington Tukwila
+      1 United States Washington Walla Walla
+      1 United States Washington Wenatchee
+      1 United States Wisconsin Eau Claire
+      1 United States Wisconsin Green Bay
+      2 United States Wisconsin Howard
+      1 United States Wisconsin Madison
+      5 United States Wisconsin Milwaukee
+      1 United States Wisconsin Muskego
+      1 United States Wisconsin Racine
+      1 United States Wyoming Cheyenne
+      1 United States Wyoming Cody
+      3 United States Wyoming Gillette
+      1 United States Wyoming Lander
+      3 United States Wyoming Laramie
+      2 United States Wyoming Rock Springs
+      1 Uruguay Canelones Pando
+      3 Uruguay Canelones Paso de Carrasco
+      1 Uruguay Cerro Largo Rio Branco
+     36 Uruguay Montevideo Montevideo
+      1 Uruguay Paysandu Paysandu
+      1 Uruguay Rocha Chuy
+      5 Uruguay Salto Salto
+      1 Uzbekistan Toshkent Chirchiq
+      1 Venezuela, Bolivarian Republic of Anzoategui Puerto La Cruz
+      1 Venezuela, Bolivarian Republic of Aragua Maracay
+      5 Venezuela, Bolivarian Republic of Distrito Capital Caracas
+      3 Venezuela, Bolivarian Republic of Miranda Chacao
+      1 Viet Nam Binh Thuan Phan Thiet
+      7 Viet Nam Dak Nong Xom Tao
+      2 Viet Nam Dong Nai Bien Hoa
+      5 Viet Nam Hai Duong Hai Duong
+      2 Viet Nam Hai Phong Haiphong
+     20 Viet Nam Ha Noi Hanoi
+      6 Viet Nam Ho Chi Minh Ho Chi Minh City
+      1 Viet Nam Hung Yen Hung Yen
+      1 Yemen Hadramawt Sana'
