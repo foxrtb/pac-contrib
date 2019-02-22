@@ -3,15 +3,18 @@
 ```
 tee /usr/local/bin/block.sh  &>/dev/null <<'EOF'
 
-#Discord webhooks url
-url='https://discordapp.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+#!/bin/sh
 
-BLOCK=$(/usr/local/bin/paccoin-cli getblockcount)
-BLOCKHASH=$(/usr/local/bin/paccoin-cli getblockhash $BLOCK)
+
+#Discord webhooks url
+url='https://discordapp.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+
+BIN='/usr/local/bin/paccoin-cli'
+BLOCK=$($BIN getblockcount)
+BLOCKHASH=$($BIN getblockhash $BLOCK)
 EXPLORER=$(/usr/bin/curl -sS http://explorer.foxrtb.com/api/block-index/$BLOCK| jq -r .[])
 DATE=$(date "+%Y-%m-%dT%T")
 HOST=`hostname`
-
 
 if [ "$BLOCKHASH" != "$EXPLORER" ]; then
   /usr/bin/curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$BLOCK "local" $BLOCKHASH "explorer" $EXPLORER  $DATE   $HOST\"}" $url
