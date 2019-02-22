@@ -18,6 +18,7 @@ if [ "$BLOCKHASH" != "$EXPLORER" ]; then
 fi
 EOF
 
-
+apt install -y jq
+chmod +x /usr/local/bin/block.sh
 crontab -l | { cat; echo "0 * * * * /usr/local/bin/block.sh >/dev/null 2>&1"; } | crontab -
 ```
