@@ -1,6 +1,6 @@
 #simple scripts that compares the local chain with the explorer, and if wrong posts a message on discord
 #
-
+```
 tee /usr/local/bin/block.sh  &>/dev/null <<'EOF'
 
 #Discord webhooks url
@@ -20,3 +20,4 @@ EOF
 
 
 crontab -l | { cat; echo "0 * * * * /usr/local/bin/block.sh >/dev/null 2>&1"; } | crontab -
+```
